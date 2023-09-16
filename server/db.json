@@ -1,0 +1,1719 @@
+{
+  "users": [
+    {
+      "fullname": "Dao Thu Hang",
+      "role": 1,
+      "email": "daothuhang2192002@gmail.com",
+      "id": 1
+    },
+    {
+      "fullname": "Đào Thu Hằng SUN*",
+      "phonenumber": "0349653909",
+      "sex": "0",
+      "email": "dao.thu.hang@sun-asterisk.com",
+      "birthday": "2002-09-21",
+      "role": 0,
+      "createdAt": 1692356390331,
+      "id": 2,
+      "votedMovies": [
+        {
+          "id": 8,
+          "rating": 9
+        },
+        {
+          "id": 3,
+          "rating": 9
+        },
+        {
+          "id": 2,
+          "rating": 9
+        }
+      ]
+    },
+    {
+      "fullname": "Đào Thu Hằng",
+      "phonenumber": "0349653909",
+      "sex": 1,
+      "email": "test@email.com",
+      "birthday": "2002-09-21",
+      "role": 0,
+      "createdAt": 1692356449605,
+      "id": 3
+    },
+    {
+      "fullname": "Đào Thu Hằng D",
+      "phonenumber": "0349653909",
+      "sex": 1,
+      "email": "daothuhangd@gmail.com",
+      "birthday": "2002-09-21",
+      "role": 0,
+      "createdAt": 1692357377970,
+      "id": 7
+    },
+    {
+      "fullname": "Dao Thu Hang DTH",
+      "phonenumber": "0349653909",
+      "sex": "0",
+      "email": "dth@gmail.com",
+      "birthday": "2023-08-17",
+      "role": 0,
+      "createdAt": 1692674178270,
+      "id": 8,
+      "votedMovies": [
+        {
+          "id": 8,
+          "rating": 4
+        }
+      ]
+    }
+  ],
+  "movies": [
+    {
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      "title": "Pulp Fiction",
+      "genre": [
+        "Tội phạm",
+        "Drama"
+      ],
+      "language": [
+        "Tiếng Anh",
+        "Tiếng Pháp"
+      ],
+      "direction": "Quentin Tarantino",
+      "writer": [
+        "Quentin Tarantino",
+        "Roger Avary"
+      ],
+      "actor": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "runtime": "154",
+      "rated": "R",
+      "ticket": "105000",
+      "country": "Mỹ",
+      "plot": "Những câu chuyện tưởng chừng tầm phào về 2 gã găng tơ trên đường thực hiện mệnh lệnh của ông chủ với 1 võ sĩ quyền anh giết chết người phải chạy trốn có vẻ không liên quan nhưng khi ghép lại người xem sẽ có 1 bức tranh tổng thể, đặc trưng cho phong cách của đạo diễn Quentin Tarantino: đậm chất bạo lực, máu me.",
+      "released": "1994-10-14",
+      "rating": 0,
+      "votes": 0,
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30",
+      "id": 1,
+      "showsTimes": [
+        {
+          "date": "2023-09-16",
+          "times": [
+            {
+              "time": "07:40",
+              "room": "A2"
+            },
+            {
+              "time": "21:00",
+              "room": "A1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "poster": "https://m.media-amazon.com/images/M/MV5BY2Y0ZWEyODEtNzRmOS00YmE5LWE1NTYtOTNjZWM5NWFhZmM3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UY2880_.jpg",
+      "title": "Red, White & Royal Blue",
+      "genre": [
+        "Hài",
+        "Lãng mạn"
+      ],
+      "language": [
+        "Tiếng Anh",
+        "Tiếng Pháp"
+      ],
+      "direction": "Matthew López",
+      "writer": [
+        "Casey McQuiston",
+        "Matthew López",
+        "Ted Malawer"
+      ],
+      "actor": [
+        "Taylor Zakhar Perez",
+        "Nicholas Galitzine",
+        "Uma Thurman"
+      ],
+      "runtime": "118",
+      "rated": "R",
+      "ticket": "120000",
+      "country": "Mỹ",
+      "released": "2023-07-22",
+      "rating": 9,
+      "votes": 1,
+      "id": 2,
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30",
+      "showsTimes": [
+        {
+          "date": "2023-09-15",
+          "times": [
+            {
+              "time": "07:40",
+              "room": "A2"
+            },
+            {
+              "time": "09:40",
+              "room": "A2"
+            },
+            {
+              "time": "10:00",
+              "room": "A1"
+            },
+            {
+              "time": "13:00",
+              "room": "A2"
+            },
+            {
+              "time": "16:00",
+              "room": "A3"
+            },
+            {
+              "time": "21:05",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-16",
+          "times": [
+            {
+              "time": "08:00",
+              "room": "A2"
+            },
+            {
+              "time": "10:00",
+              "room": "A3"
+            },
+            {
+              "time": "12:00",
+              "room": "A1"
+            },
+            {
+              "time": "14:10",
+              "room": "A2"
+            },
+            {
+              "time": "19:10",
+              "room": "A2"
+            },
+            {
+              "time": "21:40",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-17",
+          "times": [
+            {
+              "time": "08:05",
+              "room": "A1"
+            },
+            {
+              "time": "09:15",
+              "room": "A2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "poster": "https://nguyetnguuyetcung.files.wordpress.com/2017/03/into-the-forest-of-fireflies-light-2011.jpg",
+      "title": "Lạc Vào Khu Rừng Đom Đóm",
+      "genre": [
+        "Lãng mạn",
+        "Hoạt hình"
+      ],
+      "language": [
+        "Tiếng Việt",
+        "Tiếng Nhật"
+      ],
+      "direction": "Omori Takahiro",
+      "writer": [
+        "Midorikawa Yuki"
+      ],
+      "actor": [
+        "Abc",
+        "XYz"
+      ],
+      "runtime": "44",
+      "rated": "G",
+      "ticket": "80000",
+      "country": "Nhật Bản",
+      "released": "2011-09-17",
+      "rating": 9,
+      "votes": 1,
+      "id": 3,
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30",
+      "showsTimes": [
+        {
+          "date": "2023-09-11",
+          "times": [
+            {
+              "time": "10:00",
+              "room": "A1"
+            },
+            {
+              "time": "13:00",
+              "room": "A2"
+            },
+            {
+              "time": "16:00",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-12",
+          "times": [
+            {
+              "time": "10:00",
+              "room": "A1"
+            },
+            {
+              "time": "13:00",
+              "room": "A2"
+            },
+            {
+              "time": "16:00",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-13",
+          "times": [
+            {
+              "time": "10:00",
+              "room": "A1"
+            },
+            {
+              "time": "13:00",
+              "room": "A2"
+            },
+            {
+              "time": "16:00",
+              "room": "A3"
+            },
+            {
+              "time": "22:30",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-14",
+          "times": [
+            {
+              "time": "10:00",
+              "room": "A1"
+            },
+            {
+              "time": "13:00",
+              "room": "A2"
+            },
+            {
+              "time": "16:00",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-15",
+          "times": [
+            {
+              "time": "08:45",
+              "room": "A2"
+            },
+            {
+              "time": "10:45",
+              "room": "A2"
+            },
+            {
+              "time": "12:45",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-16",
+          "times": [
+            {
+              "time": "07:05",
+              "room": "A2"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-17",
+          "times": [
+            {
+              "time": "15:15",
+              "room": "A2"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-18",
+          "times": [
+            {
+              "time": "08:00",
+              "room": "A2"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-19",
+          "times": [
+            {
+              "time": "09:05",
+              "room": "A1"
+            },
+            {
+              "time": "10:05",
+              "room": "A3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "poster": "https://upload.wikimedia.org/wikipedia/vi/c/c4/Thua_me_con_di_poster.jpeg",
+      "title": "Thưa mẹ con đi",
+      "genre": [
+        "Chính kịch",
+        "Lãng mạn"
+      ],
+      "language": [
+        "Tiếng Việt",
+        "Tiếng Anh"
+      ],
+      "direction": "Trịnh Đình Lê Minh",
+      "writer": [
+        "Nhi Bùi"
+      ],
+      "actor": [
+        "Lãnh Thanh",
+        "Gia Huy",
+        "Hồng Đào"
+      ],
+      "runtime": "106",
+      "rated": "PG-13",
+      "ticket": "80000",
+      "country": "Việt Nam",
+      "released": "2019-08-16",
+      "rating": 0,
+      "votes": 0,
+      "id": 4,
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30"
+    },
+    {
+      "poster": "https://cdn.galaxycine.vn/media/2022/8/30/1200wx1800h_1661793911854.jpg",
+      "title": "Ngược dòng thời gian để yêu anh",
+      "genre": [
+        "Lãng mạn",
+        "Lịch sử",
+        "Hài"
+      ],
+      "language": [
+        "Tiếng Việt",
+        "Tiếng Thái"
+      ],
+      "direction": "Adisorn Tresirikasem",
+      "writer": [
+        "NA"
+      ],
+      "actor": [
+        "Ranee Campen",
+        "Thanavat Vatthanaputi"
+      ],
+      "country": "Thái Lan",
+      "runtime": "166",
+      "rated": "G",
+      "plot": "Gaysorn (Ranee Campen) – tiểu thư sống ở thời Rattanakosin chính là kiếp sau của Karaket ở triều đại Ayutthaya. Có lẽ bởi vậy mà Gaysorn đã chiếm trọn trái tim của Bhop (Thanavat Vatthanaputi) – cũng là hậu duệ của Dej – ngay từ lần đầu gặp mặt. Chàng kỹ sư tài năng đã luôn mơ về một người con gái có gương mặt giống Gaysorn trong suốt 10 năm qua, và nghĩ rằng cô chính là tri kỉ mà mình đang tìm kiếm. ",
+      "ticket": "100000",
+      "released": "2022-09-09",
+      "rating": 0,
+      "votes": 0,
+      "createdAt": 1692694786542,
+      "id": 5,
+      "startDate": "2023-10-01",
+      "endDate": "2023-10-31"
+    },
+    {
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/78/Firebird_%28poster%29.jpg",
+      "title": "Firebird",
+      "genre": [
+        "Chính kịch"
+      ],
+      "language": [
+        "Tiếng Anh",
+        "Tiếng Việt"
+      ],
+      "direction": "Peeter Rebane",
+      "writer": [
+        "Peeter Rebane",
+        "Tom Prior"
+      ],
+      "actor": [
+        "Tom Prior",
+        "Oleg Zagorodnii",
+        "Diana Pozharskaya"
+      ],
+      "country": "Anh",
+      "runtime": "107",
+      "rated": "R",
+      "plot": "Chim Lửa là một câu chuyện tình yêu cảm động lấy bối cảnh của Lực lượng Không quân Liên Xô trong Chiến tranh Lạnh. Sergey, một tư nhân trẻ gặp khó khăn, đang đếm từng ngày cho đến khi kết thúc nghĩa vụ quân sự. Cuộc sống của anh bị đảo lộn khi một phi công chiến đấu táo bạo, Roman đến căn cứ. Bị thúc đẩy bởi sự tò mò, Sergey và Roman điều hướng ranh giới bấp bênh giữa tình yêu và tình bạn khi một mối tình tay ba nguy hiểm hình thành giữa họ và Luisa, thư ký của Chỉ huy căn cứ. Sergey buộc phải đối mặt với quá khứ của mình vì sự nghiệp của Roman đang gặp nguy hiểm và Luisa phải vật lộn để giữ gia đình bên nhau. Khi các bức tường đóng lại, họ liều lĩnh tự do và tính mạng của mình khi đối mặt với cuộc điều tra ngày càng leo thang của KGB và nỗi sợ hãi của chế độ Xô Viết toàn diện.",
+      "ticket": "50000",
+      "released": "2021-03-17",
+      "rating": 0,
+      "votes": 0,
+      "createdAt": 1692695399836,
+      "id": 6,
+      "startDate": "2023-10-01",
+      "endDate": "2023-10-31"
+    },
+    {
+      "poster": "https://i.mpcdn.top/poster/tinh-dau-luyen-ai-7195.jpg",
+      "title": "Tình Đầu Luyến Ái",
+      "genre": [
+        "Tâm lý - Tình cảm",
+        "Phương Tây",
+        "Lãng mạn"
+      ],
+      "language": [
+        "Tiếng Anh",
+        "Tiếng Việt"
+      ],
+      "direction": "Chanya Button",
+      "writer": [
+        "Button",
+        "Eileen Atkins"
+      ],
+      "actor": [
+        "Gemma Arterton",
+        "Elizabeth Debicki",
+        "Isabella Rossellini"
+      ],
+      "country": "Anh",
+      "runtime": "110",
+      "rated": "PG-13",
+      "plot": "Vita và Virginia là câu chuyện tình yêu và tình bạn giữa nhà văn Virginia Woolf \"Elizabeth Debicki\" và quý tộc Vita Sackville West \"Gemma Arterton\". Năm 1922, khi Vita nhận được lời mời, con đường của họ đã giao nhau ở Bloomsbury với Virginia. Chuyện tình lãng mạn của họ vượt qua mọi ranh giới xã hội, sức khỏe tâm thần của Virginia phải vật lộn với sự liều lĩnh của Vita và cả hai sẽ không bao giờ giống nhau nếu không có đối phương.",
+      "ticket": "80000",
+      "released": "2019-07-05",
+      "rating": 0,
+      "votes": 0,
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30",
+      "createdAt": 1693838406835,
+      "id": 7
+    },
+    {
+      "poster": "https://i.mpcdn.top/poster/bau-troi-xanh-cua-em-8252.jpg",
+      "title": "Bầu Trời Xanh Của Em",
+      "genre": [
+        "Hoạt hình",
+        "Tâm lý - Tình cảm"
+      ],
+      "language": [
+        "Tiếng Nhật",
+        "Tiếng Việt"
+      ],
+      "direction": "Nagai Tatsuyuki",
+      "writer": [
+        "Okada Mari"
+      ],
+      "actor": [
+        "Wakayama Shion",
+        "Yoshioka Riho",
+        "Yoshizawa Ryo",
+        "Matsudaira Ken",
+        "Taichi Yō",
+        "Ochiai Fukushi",
+        "Tanezaki Atsumi"
+      ],
+      "country": "Nhật Bản",
+      "runtime": "106",
+      "rated": "G",
+      "plot": "Bầu Trời Xanh Trong Mắt Em: 13 năm trước, cha mẹ của Akane và Aoi không may qua đời vì tai nạn giao thông. Sự ra đi đột ngột của hai người khiến Akane phải gác lại ước mơ lên Tokyo lập nghiệp cùng bạn trai Shinno để chăm lo cho em gái Aoi. 13 năm sau, Aoi bỗng nhiên gặp được Shinno của 13 năm trước, một chàng trai đầy nhiệt huyết tuổi trẻ, tồn tại song song cùng với Shinno của hiện tại – một nhạc sĩ giỏi nhưng nay đã mất lửa và vô cùng lạnh lùng.",
+      "ticket": "80000",
+      "released": "2019-10-11",
+      "rating": 6.5,
+      "votes": 2,
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30",
+      "createdAt": 1693838803267,
+      "id": 8,
+      "showsTimes": [
+        {
+          "date": "2023-09-06",
+          "times": [
+            {
+              "time": "10:00",
+              "room": "A1"
+            },
+            {
+              "time": "13:00",
+              "room": "A2"
+            },
+            {
+              "time": "16:00",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-09",
+          "times": [
+            {
+              "time": "10:00",
+              "room": "A1"
+            },
+            {
+              "time": "13:00",
+              "room": "A2"
+            },
+            {
+              "time": "16:00",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-10",
+          "times": [
+            {
+              "time": "09:30",
+              "room": "A1"
+            },
+            {
+              "time": "11:00",
+              "room": "A2"
+            },
+            {
+              "time": "13:00",
+              "room": "A3"
+            },
+            {
+              "time": "14:00",
+              "room": "A1"
+            },
+            {
+              "time": "15:00",
+              "room": "A2"
+            },
+            {
+              "time": "16:00",
+              "room": "A3"
+            }
+          ]
+        },
+        {
+          "date": "2023-09-14",
+          "times": [
+            {
+              "time": "09:30",
+              "room": "A1"
+            },
+            {
+              "time": "11:00",
+              "room": "A2"
+            },
+            {
+              "time": "13:00",
+              "room": "A3"
+            },
+            {
+              "time": "14:00",
+              "room": "A1"
+            },
+            {
+              "time": "15:00",
+              "room": "A2"
+            },
+            {
+              "time": "16:00",
+              "room": "A3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "poster": "https://i.mpcdn.top/poster/the-gioi-se-den-8970.jpg",
+      "title": "Thế Giới Sẽ Đến",
+      "genre": [
+        "Tâm lý - Tình cảm",
+        "Phiêu lưu"
+      ],
+      "language": [
+        "Tiếng Anh",
+        "Tiếng Việt"
+      ],
+      "direction": "Mona Fastvold",
+      "writer": [
+        "Ron Hansen",
+        "Jim Shepard"
+      ],
+      "actor": [
+        "Katherine Waterston",
+        "Vanessa Kirby",
+        "Christopher Abbott",
+        "Casey Affleck"
+      ],
+      "country": "Mỹ",
+      "runtime": "98",
+      "rated": "PG-13",
+      "plot": "Bầu Trời Xanh Trong Mắt Em: 13 năm trước, cha mẹ của Akane và Aoi không may qua đời vì tai nạn giao thông. Sự ra đi đột ngột của hai người khiến Akane phải gác lại ước mơ lên Tokyo lập nghiệp cùng bạn trai Shinno để chăm lo cho em gái Aoi. 13 năm sau, Aoi bỗng nhiên gặp được Shinno của 13 năm trước, một chàng trai đầy nhiệt huyết tuổi trẻ, tồn tại song song cùng với Shinno của hiện tại – một nhạc sĩ giỏi nhưng nay đã mất lửa và vô cùng lạnh lùng.",
+      "ticket": "80000",
+      "released": "2020-12-06",
+      "rating": 0,
+      "votes": 0,
+      "startDate": "2023-09-01",
+      "endDate": "2023-09-30",
+      "createdAt": 1693839149129,
+      "id": 9
+    },
+    {
+      "poster": "https://i.imgur.com/9jyjX6M.jpg",
+      "title": "Phạm Điều Cấm Kỵ",
+      "genre": [
+        "Lãng mạn",
+        "Tâm lý - Tình cảm"
+      ],
+      "language": [
+        "Tiếng Anh",
+        "Tiếng Việt"
+      ],
+      "direction": "Sebastián Lelio",
+      "writer": [
+        "Lelio",
+        "Rebecca Lenkiewicz"
+      ],
+      "actor": [
+        "Rachel Weisz",
+        "Rachel McAdams",
+        "Alessandro Nivola"
+      ],
+      "country": "Mỹ",
+      "runtime": "114",
+      "rated": "PG-13",
+      "plot": "Disobedience dựa trên tiểu thuyết cùng tên xuất bản năm 2006 của Naomi Alderman. Bộ phim kể về Ronit Krushka, con gái của một giáo sĩ người Do Thái, đã trở về cộng đồng người Do Thái chính thống tại HenDon, London sau cái chết của cha cô. Khi ở đó, cô nối lại mối tình đồng tính với Esti Kuperman, một người bạn cũ và cũng vừa kết hôn với anh họ của cô.",
+      "ticket": "50000",
+      "released": "2018-04-27",
+      "rating": 0,
+      "votes": 0,
+      "startDate": "2023-10-01",
+      "endDate": "2023-10-31",
+      "createdAt": 1693839722448,
+      "id": 10
+    },
+    {
+      "poster": "https://upload.wikimedia.org/wikipedia/vi/0/03/Chu_khung_long_tot_bung.jpg",
+      "title": "Chú Khủng Long Tốt Bụng",
+      "genre": [
+        "Phiêu lưu",
+        "Hài",
+        "Hoạt hình"
+      ],
+      "language": [
+        "Tiếng Anh",
+        "Tiếng Việt"
+      ],
+      "direction": "Peter Sohn",
+      "writer": [
+        "Enrico Casarosa",
+        "Bob Peterson"
+      ],
+      "actor": [
+        "Raymond Ochoa",
+        "Jack Bright",
+        "Jeffrey Wright",
+        "Frances McDormand",
+        "Marcus Scribner",
+        "Steve Zahn",
+        "A. J. Buckley",
+        "Anna Paquin",
+        "Sam Elliott"
+      ],
+      "country": "Mỹ",
+      "runtime": "101",
+      "rated": "G",
+      "plot": "Phim Chú Khủng Long Tốt Bụng – The Good Dinosaur 2015: đem tới những hình ảnh hoạt hình đầu tiên về loài khủng long và thiên nhiên kỳ vĩ xa xưa. Trong đó, chú khủng long thiếu niên màu xanh lá có tên Arlo là nhân vật chính. Arlo thuộc loài Apatosaurus, không may bị cuốn trôi theo một dòng sông đang chảy xiết và lạc mất gia đình. Từ đây, cậu bắt đầu cuộc hành trình của riêng mình và may mắn tìm được người bạn đồng hành là cậu bé Spot. Làm bạn với loài người, cùng nhau chu du qua những nơi khắc nghiệt và bí ẩn, Arlo dần học được cách đối đầu với nỗi sợ của mình và phát hiện ra khả năng tiềm ẩn bấy lâu.",
+      "ticket": "50000",
+      "released": "2015-11-25",
+      "rating": 0,
+      "votes": 0,
+      "startDate": "2023-10-01",
+      "endDate": "2023-10-30",
+      "createdAt": 1693840532927,
+      "id": 11
+    },
+    {
+      "poster": "https://upload.wikimedia.org/wikipedia/en/9/92/Emergency_Declaration.jpg",
+      "title": "Hạ Cánh Khẩn Cấp",
+      "genre": [
+        "Hành động",
+        "Tội phạm",
+        "Tâm lý - Tình cảm",
+        "Phiêu lưu",
+        "Khoa học viễn tưởng",
+        "Bí ẩn"
+      ],
+      "language": [
+        "Tiếng Việt",
+        "Tiếng Hàn"
+      ],
+      "direction": "Han Jae Rim",
+      "writer": [
+        "Han Jae-rim"
+      ],
+      "actor": [
+        "Song Kang Ho",
+        "Lee Byung Hun",
+        "Jeon Do Yeon",
+        "Kim Nam Gil",
+        "Im Si Wan",
+        "Kim So Jin"
+      ],
+      "country": "Hàn Quốc",
+      "runtime": "150",
+      "rated": "R",
+      "plot": "Hạ Cánh Khẩn Cấp kể về bộ phim xoay quanh chuyến bay mang số hiệu KI501 của hãng hàng không Sky Korea, khởi hành từ sân bay quốc tế Incheon tới Honolulu, Hawaii. Không lâu sau khi máy bay cất cánh, một hành khách bắt đầu có những biểu hiện lạ và tử vong trước sự bàng hoàng của mọi người. Một virus lạ với tốc độ lây lan chóng mặt đã xâm nhập lên máy bay, tất cả chìm trong hỗn loạn và sợ hãi. Trong tình huống ngàn cân treo sợi tóc, một tuyên bố đề nghị hạ cánh khẩn cấp được đưa ra. Trên độ cao 8,534 mét, số phận của hơn 150 con người bao gồm cả các hành khách và phi hành đoàn sẽ ra sao?",
+      "ticket": "80000",
+      "released": "2022-08-03",
+      "rating": 0,
+      "votes": 0,
+      "startDate": "2023-10-01",
+      "endDate": "2023-10-30",
+      "id": 12
+    },
+    {
+      "poster": "https://mephimtv.net/wp-content/uploads/2023/06/kuroko-tuyen-thu-vo-hinh-tran-dau-cuoi-cung-thumb.jpg",
+      "title": "Kuruko Tuyển Thủ Vô Hình: Trấn Đấu Cuối Cùng",
+      "genre": [
+        "Hoạt hình",
+        "Học đường",
+        "Thể thao",
+        "Hài"
+      ],
+      "language": [
+        "Tiếng Nhật",
+        "Tiếng Việt"
+      ],
+      "direction": "Tada Shunsuke",
+      "writer": [
+        "Shunsuke Tada"
+      ],
+      "actor": [
+        "NA"
+      ],
+      "country": "Nhật Bản",
+      "runtime": "90",
+      "rated": "G",
+      "plot": "Bộ phim diễn ra sau khi Kuroko và Kagami trở thành học sinh năm 2 cao trung Seirin. Một đội bóng rổ của Hoa Kỳ mang tên Jabberwock đã đến Nhật Bản và đấu giao hữu với đội bóng rổ Nhật. Sau sự thất bại của đội Nhật, các thành viên của Jabberwock bắt đầu chế giễu và khinh thường bóng rổ Nhật Bản. Bắt đầu từ đây, nỗi quyết tâm của những chàng trai trong đội bóng của Nhật được khơi dậy mạnh mẽ, những thành viên của Thế hệ kỳ tích tập hợp lại thành đội Vorpal Swords, đối đầu với Jabberwock.",
+      "ticket": "50000",
+      "released": "2017-03-18",
+      "rating": 0,
+      "votes": 0,
+      "startDate": "2023-10-01",
+      "endDate": "2023-10-30",
+      "createdAt": 1693841076826,
+      "id": 13
+    },
+    {
+      "poster": "https://upload.wikimedia.org/wikipedia/en/7/73/You_Should_Have_Left_Poster_2020.jpeg",
+      "title": "Rời bỏ",
+      "genre": [
+        "Tâm lý - Tình cảm",
+        "Lãng mạn"
+      ],
+      "language": [
+        "Tiếng Việt",
+        "Tiếng Anh"
+      ],
+      "direction": "David Koepp",
+      "writer": [
+        "David Koepp"
+      ],
+      "actor": [
+        "Kevin Bacon",
+        "Amanda Seyfried",
+        "Avery Essex"
+      ],
+      "country": "Mỹ",
+      "runtime": "93",
+      "rated": "R",
+      "plot": "Bộ phim diễn ra sau khi Kuroko và Kagami trở thành học sinh năm 2 cao trung Seirin. Một đội bóng rổ của Hoa Kỳ mang tên Jabberwock đã đến Nhật Bản và đấu giao hữu với đội bóng rổ Nhật. Sau sự thất bại của đội Nhật, các thành viên của Jabberwock bắt đầu chế giễu và khinh thường bóng rổ Nhật Bản. Bắt đầu từ đây, nỗi quyết tâm của những chàng trai trong đội bóng của Nhật được khơi dậy mạnh mẽ, những thành viên của Thế hệ kỳ tích tập hợp lại thành đội Vorpal Swords, đối đầu với Jabberwock.",
+      "ticket": "50000",
+      "released": "2017-03-18",
+      "rating": 0,
+      "votes": 0,
+      "startDate": "2023-10-01",
+      "endDate": "2023-10-30",
+      "createdAt": 1693841349706,
+      "id": 14
+    },
+    {
+      "poster": "https://upload.wikimedia.org/wikipedia/vi/a/a5/Heisei_Tanuki_Gassen_Ponpoko_poster.jpg",
+      "title": "Cuộc Chiến Gấu Trúc",
+      "genre": [
+        "Hoạt hình",
+        "Hài"
+      ],
+      "language": [
+        "Tiếng Nhật",
+        "Tiếng Việt"
+      ],
+      "direction": "Takahata Isao",
+      "writer": [
+        "Takahata Isao"
+      ],
+      "actor": [
+        "Shinchou Kokontei",
+        "Nonomura Makoto",
+        "Ishida Yuriko"
+      ],
+      "country": "Nhật Bản",
+      "runtime": "119",
+      "rated": "G",
+      "plot": "Khu rừng nơi loài chó gấu trúc ở Tama Hills sinh sống đang bị sự phát triển của loài người đe dọa. Chúng quyết định chống lại bằng cách sử dụng một phép thuật cổ xưa để biến hóa thành các vật thể, thậm chí biến thành cả con người.\n\nLúc đầu chúng lừa gạt và đe dọa con người nhưng rồi cuộc chiến đấu của chúng trở thành bi kịch khi một số con bị giết. Cuối cùng chúng buộc phải tìm đến sự trợ giúp của loài vật ở khu rừng bên cạnh-những loài vật phải từ bỏ cuộc đấu tranh và đang sống như loài người trong thành phố. \n\nCon người đã hủy diệt những khu rừng và cây cối thiên nhiên. Loài gấu không biết đi đâu mà sống khi xung quanh là những căn nhà dột nát và khí thải ô nhiễm. Liệu loài gấu có để yên khi trái đất này tạo ra là dành cho muôn loài mà con người tự đặt cho mình quyền lợi được thống lĩnh?",
+      "ticket": "50000",
+      "released": "1994-07-16",
+      "rating": 0,
+      "votes": 0,
+      "startDate": "2023-10-01",
+      "endDate": "2023-10-31",
+      "createdAt": 1693842478644,
+      "id": 15
+    }
+  ],
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Sale “Sốc” – Rinh Combo Phim “Cực Bốc”",
+      "thumbnail": "https://cdn.galaxycine.vn/media/2023/8/26/300_1692983373284.jpg",
+      "description": "Với 299k, Stars có thể chọn mua Ly rồng D&D Dice Tower Cup hoặc Hộp bắp Optimus Prime Container.",
+      "content": "<div><p style={{margin: '0in 0in 8pt'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Chỉ với 299k sở hữu ngay Combo phim siêu cấp duy nhất tại <b>Galaxy Cinema</b></span></span></span></span></p> <p style={{margin: '0in 0in 8pt'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Chào mừng đại lễ Quốc Khánh 2/9, ngoài việc đến <i>Trạm Điện Ảnh Galaxy Cinema</i> để thưởng thức những bom tấn giải trí hàng đầu, Stars còn có cơ hội sở hữu 2 Combo phim “khủng” nhất lịch sử <b>Galaxy Cinema</b> với mức giá ưu đãi chưa từng có.</span></span></span></span></p> <p style={{margin: '0in 0in 8pt'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Với 299k, Stars có thể chọn mua Ly rồng D&D Dice Tower Cup hoặc Hộp bắp Optimus Prime Container.</span></span></span></span></p> <p style={{margin: '0in 0in 8pt'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Đến ngay rạp <b>Galaxy Cinema</b> gần nhất để nhanh tay rinh Combo chất chơi “sang-xịn-mịn” nào!</span></span></span></span></p> <p style={{margin: '0in 0in 8pt', textAlign: 'center'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}><img alt='' height={349} src='https://cdn.galaxycine.vn/media/2023/8/26/combo299k-transdd-digital-1135x660_1692983284537.jpg' width={600} className='loading' data-was-processed='true' /></span></span></span></span></p> <p style={{margin: '0in 0in 8pt'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Thời gian:</span></span></span></span></p> <ul> <li style={{margin: '0in 0in 8pt 0.5in'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Từ 01.09.2023 – 30.09.2023</span></span></span></span></li> </ul> <p style={{margin: '0in 0in 8pt'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Điều kiện: </span></span></span></span></p> <ul> <li style={{margin: '0in 0in 0in 0.5in'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Áp dụng cho cả giao dịch online và giao dịch trực tiếp tại rạp</span></span></span></span></li> <li style={{margin: '0in 0in 0in 0.5in'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Áp dụng cho ly rồng D&D hoặc hộp bắp Optimus Prime, không bao gồm bắp nước</span></span></span></span></li> <li style={{margin: '0in 0in 0in 0.5in'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Mỗi sản phẩm khi mua được tặng kèm 01 túi giấy <b>Galaxy Cinema</b> (<i>số lượng có hạn</i>)</span></span></span></span></li> <li style={{margin: '0in 0in 8pt 0.5in'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Trong mọi trường hợp, quyết định của <b>Galaxy Cinema</b> là quyết định cuối cùng</span></span></span></span></li> </ul> <p style={{margin: '0in 0in 8pt'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Địa điểm: </span></span></span></span></p> <ul> <li style={{margin: '0in 0in 8pt 0.5in'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><span style={{lineHeight: '107%'}}>Các hệ thống rạp <b>Galaxy Cinema</b> trên toàn quốc </span></span></span></span></li> </ul> <p style={{margin: '0in 0in 8pt'}}><span style={{fontSize: '14px'}}><span><span style={{lineHeight: '107%'}}><i><span style={{lineHeight: '107%'}}>*Lưu ý: hiện tại chương trình chưa áp dụng tại Galaxy Bến Tre, Galaxy Cà Mau, Galaxy Long Xuyên, Galaxy Buôn Ma Thuột</span></i></span></span></span></p></div>"
+    },
+    {
+      "id": 2,
+      "title": "U22 Vui Vẻ - Bắp Nước Siêu Hạt Dẻ",
+      "thumbnail": "https://cdn.galaxycine.vn/media/2022/12/10/combo-u22-digital-300x450-1667285239633_1670637604853.jpg",
+      "description": "Cinema ra mắt combo ưu tiên dành cho U22!",
+      "content": "<div><p style={{margin: '0cm 0cm 8pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Cuối 2022, <b>Galaxy Cinema</b> dành tặng các Stars từ 22 tuổi trở xuống một phần quà ưu khủng. </span></span></span></p> <p style={{margin: '0cm 0cm 8pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Từ 01.11.2022, <b>Galaxy Cinema</b> chính thức ra mắt <b>Combo ưu tiên</b> chỉ dành riêng cho các Stars từ 13 đến 22 tuổi.</span></span></span></p> <p style={{margin: '0cm 0cm 8pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Đến <b>Galaxy Cinema</b>, thưởng thức loạt phim hay và mua ngay <b>Combo 1 U22</b> đủ bắp giòn nước ngọt chỉ từ 49k. Muốn thêm phần nước, hãy chọn <b>Combo 2 U22</b> chỉ từ 59k. </span></span></span></p> <p style={{margin: '0cm 0cm 8pt', textAlign: 'center'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}><img alt='' height={600} src='https://cdn.galaxycine.vn/media/2023/8/25/combo-fb-post-03_1692950061813.jpg' width={600} className='loading' data-was-processed='true' /></span></span></span></p> <p style={{margin: '0cm 0cm 8pt', textAlign: 'center'}}> </p> <p style={{margin: '0cm 0cm 8pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Lưu ý: Các rạp tại Tp. Hồ Chí Minh, Hà Nội, Hải Phòng, Đà Nẵng thêm 10k mỗi loại Combo.  </span></span></span></p> <p style={{margin: '0cm 0cm 8pt', textAlign: 'center'}}><img alt='' src='https://cdn.galaxycine.vn/media/2022/11/1/combo-u22-digital-1135x660_1667285074364.jpg' className='loading' data-was-processed='true' /><img alt='' height={349} src='https://cdn.galaxycine.vn/media/2022/11/1/combo-u22-digital-1135x660_1667285093971.jpg' width={600} className='loading' data-was-processed='true' /></p> <p style={{margin: '0cm 0cm 8pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}><b>Điều kiện áp dụng:</b></span></span></span></p> <ul> <li style={{margin: '0cm 0cm 0cm 36pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Dành cho khách hàng thành viên U22 (độ tuổi 13-22).</span></span></span></li> <li style={{margin: '0cm 0cm 0cm 36pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Áp dụng khi mua trực tiếp tại quầy. </span></span></span></li> <li style={{margin: '0cm 0cm 0cm 36pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Vui lòng xuất trình đồng thời giấy tờ tùy thân có ngày sinh hoặc vé U22 kèm thông tin thành viên hợp lệ (thẻ thành viên, app) khi mua combo.</span></span></span></li> <li style={{margin: '0cm 0cm 0cm 36pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Mỗi khách hàng mua tối đa 01 Combo 1/ Combo 2 U22 mỗi lần.</span></span></span></li> <li style={{margin: '0cm 0cm 8pt 36pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Trong mọi trường hợp, quyết định của <b>Galaxy Cinema</b> là quyết định cuối cùng. </span></span></span></li> </ul> <p style={{margin: '0cm 0cm 8pt'}}><span><span style={{fontSize: '14px'}}><span style={{lineHeight: '107%'}}>Mùa bom tấn tới rồi, ghé <b>Galaxy Cinema</b> tận hưởng phim hay và nhận ưu đãi bắp nước nào các Stars U22 ơi!</span></span></span></p><p /></div>"
+    },
+    {
+      "id": 3,
+      "title": "ZaloPay Chỉ 9K Khi Mua Vé Galaxy Cinema",
+      "thumbnail": "https://cdn.galaxycine.vn/media/2023/8/22/zalopay-6_1692686573201.jpg",
+      "description": "Mua vé Galaxy Cinema chỉ 9K qua ZaloPay!",
+      "content": "<div class='content-text'><p></p><p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#001f3e'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>*Thông tin chương trình</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#001f3e'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>1. Địa điểm sử dụng: </span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>website hoặc ứng dụng của Galaxy Cinema.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>2. Thời gian áp dụng: </span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>01/09/2023 - 30/09/2023&nbsp;</span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>3. Đối tượng khuyến mại:</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>- Bạn Mới:</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>Lần đầu tiên liên kết thẻ/ tài khoản ngân hàng mới với ZaloPay trong thời gian diễn ra chương trình và chưa từng thực hiện giao dịch thanh toán trên ZaloPay.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>4. </span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>Nội dung chương trình:</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'> </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>- Bạn Mới:</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'> Chỉ 9.000đ/vé Galaxy Cinema khi thanh toán bằng Ví điện tử ZaloPay.&nbsp;&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>-Áp dụng: Cả tuần.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height: 1.38; background-color: rgb(255, 255, 255); text-align: center;'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'><img alt='' height='349' src='https://cdn.galaxycine.vn/media/2023/8/22/zalopay-5_1692686758821.jpg' width='600' class='loaded' data-was-processed='true'></span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#001f3e'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>*Hướng dẫn thực hiện</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#001f3e'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#001f3e'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>Đối với các khách hàng đặt vé website hoặc ứng dụng của GALAXY CINEMA:</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#001f3e'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>Bước 1: Truy cập vào website hoặc ứng dụng của GALAXY CINEMA&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>Bước 2: Chọn phim và suất chiếu phù hợp </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>Bước 3: Chọn thanh toán bằng ZaloPay. Khách hàng vui lòng chọn thẻ quà tặng tại mục “Chọn hoặc nhập mã ưu đãi” chọn voucher và áp dụng.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>Bước 4: Vé giảm sẽ được áp dụng nếu bạn thỏa điều kiện khi chuyển sang màn hình thanh toán của ZaloPay. </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>Bước 5: Kiểm tra thông tin và xác nhận thanh toán.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>*Quy định về loại vé và phòng chiếu</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Vé Chỉ áp dụng các suất chiếu 2D&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- KHÔNG áp dụng cho các Suất chiếu sớm/ Suất chiếu đặc biệt/ Suất chiếu phim cũ/ Suất chiếu ngày Lễ Tết.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#333333'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- KHÔNG áp dụng ghế SOFA và các phòng chiếu đặc biệt First Class, Deluxe, ONYX&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#333333'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- KHÔNG áp dụng cho các suất chiếu sau 22h.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#333333'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- KHÔNG áp dụng cho Starter.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>**Thể lệ chương trình khuyến mãi</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Không tích điểm/ tích chi tiêu cho các giao dịch có vé hưởng chương trình khuyến mãi.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Khi KH thay đổi nguồn tiền thanh toán, vui lòng áp dụng lại ưu đãi trước khi xác nhận lại thanh toán. </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Chỉ áp dụng cho khách hàng đã thực hiện xác minh thông tin tài khoản hoặc liên kết ngân hàng với ZaloPay. </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Không áp dụng thẻ ảo, thẻ prepaid.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Không áp dụng cho Khách hàng đã được hưởng ưu đãi giảm giá khác của ZaloPay và Galaxy Cinema trong tháng.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>&nbsp;&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>***</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'> </span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>Quy định khác</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Trường hợp bạn không đủ điều kiện tham gia chương trình do tài khoản Zalo không hoạt động thường xuyên hoặc nằm trong danh sách có hoạt động bất thường được ghi nhận tự động bởi hệ thống ZaloPay.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Thẻ quốc tế VISA, MasterCard, JCB áp dụng thanh toán trực tiếp đơn hàng từ 10.000đ trở lên. Chỉ áp dụng cho khách hàng đã thực hiện xác minh thông tin tài khoản hoặc liên kết ngân hàng với ZaloPay.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#142b43'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Đối với Agribank và một số ngân hàng khác, cần nạp tối thiểu 50.000đ. </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Chương trình có thể kết thúc trước thời hạn nếu hết ngân sách khuyến mãi hoặc tạm dừng nếu có dấu hiệu gian lận, đầu cơ. </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Giao dịch bị xác định là gian lận, giả mạo thì quà tặng khuyến mại sẽ bị hủy. </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Không áp dụng đồng thời với các chương trình khuyến mãi khác của Galaxy Cinema và ZaloPay. </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Chương trình này không hỗ trợ các giao dịch hủy, đổi trả đối với các đơn hàng đã thanh toán thành công. </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Khi thanh toán, nếu khách hàng KHÔNG được giảm giá vui lòng gọi Hotline: 1900 54 54 36 để nhận hướng dẫn trước khi xác nhận thanh toán.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Trong trường hợp có tranh chấp, quyết định của ZaloPay là quyết định cuối cùng. Ban tổ chức sẽ không giải quyết các trường hợp khách hàng khiếu nại về chương trình sau 3 ngày kể từ khi chương trình kết thúc.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>Căn cứ Luật Điện ảnh của Bộ trưởng Bộ Văn Hóa, Thể thao, Du lịch ngày 15/06/2022, ZaloPay - Đặt Vé Phim thông báo áp dụng quy định về khung giờ chiếu phim cho trẻ em* như sau:&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Trẻ em: Là khách hàng dưới 16 tuổi (căn cứ vào năm sinh của Khách Hàng) hoặc cao dưới 130cm (đối với một số trường hợp)&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Giờ chiếu phim cho trẻ em dưới 13 tuổi tại rạp kết thúc trước 22 giờ. </span></span></span></span></span><br> <span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- Giờ chiếu phim cho trẻ em dưới 16 tuổi tại rạp kết thúc trước 23 giờ.&nbsp;</span></span></span></span></span></span></span></p> <p style='line-height:1.38; text-align:justify; background-color:#ffffff'><span style='font-size:14px;'><span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>* Để biết thêm chi tiết về chương trình, vui lòng liên hệ Trung tâm Hỗ trợ Khách hàng ZaloPay </span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>- </span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>Hotline: 1900 54 54 36</span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'> - </span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#222222'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:none'>Email: </span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#0563c1'><span style='font-weight:700'><span style='font-style:normal'><span style='text-decoration:underline'><span style='text-decoration-skip-ink:none'>hotro@zalopay.vn</span></span></span></span></span></span><span style='font-variant: normal; white-space: pre-wrap;'><span style='color:#000000'><span style='font-weight:400'><span style='font-style:normal'><span style='text-decoration:none'>&nbsp;</span></span></span></span></span></span></span></p></div>"
+    },
+    {
+      "id": 4,
+      "title": "Happy Day",
+      "thumbnail": "https://cdn.galaxycine.vn/media/2022/1/17/300x450-1642060360230_1642391019890.jpg",
+      "description": "Vào thứ 3 hàng tuần – Happy Day, ưu đãi giá vé CHỈ TỪ 50K!",
+      "content": "<div class='content-text'><p></p><p><span style='font-size:14px;'><span><span style='line-height:150%'><span style='line-height:150%'>Vào <strong>thứ 3 hàng tuần</strong> – <strong>Happy Day</strong>, Galaxy Cinema dành tặng giá vé ưu đãi&nbsp;<strong>CHỈ TỪ 50K!</strong></span></span></span></span></p> <p style='text-align: center;'><span style='font-size:14px;'><span><span style='line-height:150%'><span style='line-height:150%'><strong><img alt='' height='349' src='https://cdn.galaxycine.vn/media/2022/1/13/1135x660_1642060289192.jpg' width='600' class='loading' data-was-processed='true'></strong></span></span></span></span></p> <p style='text-align: center;'>&nbsp;</p> <p><strong><span style='font-size:14px;'><span><span style='line-height:150%'><span style='line-height:150%'>Điều kiện áp dụng:</span></span></span></span></strong></p> <ul> <li><span style='font-size:14px;'><span><span style='line-height:150%'><span style='line-height:150%'>Áp dụng mỗi thứ 3&nbsp;hàng tuần.</span></span></span></span></li> <li><span style='font-size:14px;'><span><span style='line-height:150%'><span style='line-height:150%'>Áp dụng cho tất cả khách hàng.</span></span></span></span></li> <li><span style='font-size:14px;'><span><span style='line-height:150%'><span style='line-height:150%'>Trong mọi trường hợp, quyết định của Galaxy Cinema là quyết định cuối cùng.</span></span></span></span></li> </ul> <p><span style='font-size:14px;'><span><span style='line-height:150%'><span style='line-height:150%'>Đến <strong>Galaxy Cinema</strong> ngay và tận hưởng <strong>Happy Day</strong>&nbsp;nhé các Stars!</span></span></span></span></p></div>"
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "thumbnail": "https://cdn.galaxycine.vn/media/2023/7/7/tom-cruise-muon-dong-phim-toi-80-tuoi-7_1688702995857.jpg",
+      "title": "Tom Cruise Muốn Đóng Phim Tới 80 Tuổi!",
+      "description": "Bước sang tuổi 61, thế nhưng, Tom Cruise vẫn giữ được ngọn lửa đam mê điện ảnh!",
+      "content": "<div class='content-text'><p></p><p style='margin: 0in 0in 8pt;'><span style='font-size:14px;'><span><span style='line-height:107%'>Mùa hè năm nay, minh tinh hạng A “lắm tài nhiều tật” Tom Cruise sắp tái xuất màn ảnh rộng bằng <a href='https://www.galaxycine.vn/dat-ve/mission-impossible-dead-reckoning-part-one'><b>Mission: Impossible - Dead Reckoning Part One</b></a>.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Bước sang tuổi 61, thế nhưng, <a href='https://www.galaxycine.vn/dien-vien/tom-cruise'>Tom Cruise</a> vẫn giữ được ngọn lửa đam mê điện ảnh, tích cực cống hiến cho khán giả những khung hình đỉnh cao. Anh khẳng định muốn tiếp tục diễn xuất đến năm 80 tuổi. Tom nhắc đến <a href='https://www.galaxycine.vn/dien-vien/harrison-ford'>Harrison Ford</a> – ngôi sao hành động lão làng vừa trở lại qua <a href='https://www.galaxycine.vn/phim-dang-chieu'><i>phim mới</i></a> <a href='https://www.galaxycine.vn/dat-ve/indiana-jones-and-the-dial-of-destiny'><i>Indiana Jones And The Dial Of Desti</i>ny</a> với lòng ngưỡng mộ sâu sắc. “<a href='https://www.galaxycine.vn/dien-vien/harrison-ford'>Harrison Ford</a> chính là huyền thoại. Tôi mong bản thân tiếp tục cố gắng. Tôi còn hai chục năm nữa mới bắt kịp ngài ấy.”</span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><img alt='' height='381' src='https://cdn.galaxycine.vn/media/2023/7/7/tom-cruise-muon-dong-phim-toi-80-tuoi-1_1688703155242.jpg' width='600' class='loading' data-was-processed='true'></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Tom cũng nhấn mạnh: “Tôi hi vọng tham gia <i>Mission: Impossible</i> tới ngày ngang tuổi Harrison Ford hiện giờ.”</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Không chỉ nổi tiếng bằng tài năng cùng khuôn mặt điển trai chuẩn Mỹ mãi không già, <a href='https://www.galaxycine.vn/dien-vien/tom-cruise'>Tom Cruise</a> còn được hâm mộ bởi tình yêu mãnh liệt dành cho diễn xuất. Anh là ngôi sao hiếm hoi tự mình thực hiện nhiều cảnh quay nguy hiểm mà không cần đóng thế. Đáng chú ý là leo lên tòa tháp cao chót vót ở Dubai (Mission: Impossible – Ghost Protocol), đu máy bay (Mission: Impossible – Rogue Nation). Lúc 54 tuổi, khi chạy trên mái nhà ở <a href='https://www.galaxycine.vn/phim/mission-impossible-fallout'><i>Mission: Impossible – Fallout</i></a>, <a href='https://www.galaxycine.vn/dien-vien/tom-cruise'>Tom Cruise</a> bị gãy chân. Trong siêu bom tấn <i>T<a href='https://www.galaxycine.vn/phim/top-gun-maverick'>op Gun: Maverick</a></i> phá đảo hơn 1,4 tỷ $ tại phòng vé năm ngoái, <a href='https://www.galaxycine.vn/dien-vien/tom-cruise'>Tom Cruise</a> cũng lái máy bay phản lực vô cùng nguy hiểm.&nbsp; </span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Chưa biết có thể 'ngang cơ'&nbsp;<a href='https://www.galaxycine.vn/dien-vien/harrison-ford'>Harrison Ford</a> hay không nhưng trước mắt <a href='https://www.galaxycine.vn/dien-vien/tom-cruise'>Tom Cruise</a> vẫn đang sung sức “chạy” cùng Ethan Hunt trong <a href='https://www.galaxycine.vn/dat-ve/mission-impossible-dead-reckoning-part-one'><b>Nhiệm Vụ: Bất Khả Thi Nghiệp Báo Phần Một</b></a>. Tác phẩm đang được giới phê bình tán thưởng nhiệt liệt sau buổi chiếu trước với 98% “tươi ngon” trên Rotten Tomatoes và 81 điểm Metacritic. </span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><img alt='' height='315' src='https://cdn.galaxycine.vn/media/2023/7/7/tom-cruise-muon-dong-phim-toi-80-tuoi-1_1688703171936.jpeg' width='600' class='loading' data-was-processed='true'></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Cây bút Joseph Deckelmeier (Screen Rant) không tiếc lời khen ngợi: “Từ giờ. đây sẽ là tác phẩm <i>Mission: Impossible</i> yêu thích của tôi. Để AI làm phản diện, tác phẩm này như một lời cảnh báo mạnh mẽ. Các pha hành động làm tôi thót tim. Đặc biệt, đoạn tàu điện gây phấn khích cực độ.”</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Dẫu <a href='https://www.galaxycine.vn/dat-ve/mission-impossible-dead-reckoning-part-one'><b>Mission: Impossible - Dead Reckoning Part One</b></a> xuất sắc đến vậy, thật buồn khi đạo diễn Chris McQuarrie thông báo rằng phần <i>Dead Reckoning Part Two</i> phải đến hè 2024 mới có thế ra mắt. Hiện giờ, Tom Cruise đang bận rộn với một dự án siêu bự ngoài không gian cùng đạo diễn Doug Liman. </span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><img alt='' height='375' src='https://cdn.galaxycine.vn/media/2023/7/7/tom-cruise-muon-dong-phim-toi-80-tuoi-2_1688703190297.jpg' width='600' class='loading' data-was-processed='true'></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Các nhân vật quan trọng gắn bó thương hiệu đều sẽ quay trở lại. Luther Stickell (Ving Rhames), Benji (Simon Pegg) và hồng nhan tri kỉ của Ethan - Ilsa Faust (<a href='https://www.galaxycine.vn/dien-vien/rebecca-ferguson'>Rebecca Ferguson</a>). Vai phản diện phần này giao cho Esai Morales. Pom Klementieff – nàng Mantis nhà <em>Guardians Of The Galaxy</em> góp mặt ở vị thế đối đầu Ethan Hunt. Người quen khác từ vũ trụ điện ảnh Marvel – “Agent Carter” Hayley Atwell cũng tham gia nhưng vai diễn chưa tiết lộ gì nhiều. Trong quá trình quay <a href='https://www.galaxycine.vn/dat-ve/mission-impossible-dead-reckoning-part-one'><b>Mission: Impossible - Dead Reckoning Part One</b></a>, Tom và Hayley từng có quãng thời gian yêu nhau. Tuy nhiên, cặp đôi đã chia tay hòa bình và vẫn thoải mái cùng nhau quảng bá phim.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><a href='https://www.galaxycine.vn/dat-ve/mission-impossible-dead-reckoning-part-one'><b>Mission: Impossible - Dead Reckoning Part One</b></a> khởi chiếu 08.07.2023 tại các <a href='https://www.galaxycine.vn/'><i>rạp chiếu phim</i> </a>toàn quốc.</span></span></span></p> <p align='right' style='text-align:right; margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>Lược dịch theo Gamesradar</b></span></span></span></p></div>",
+      "createdAt": 1693842478644
+    },
+    {
+      "id": 2,
+      "thumbnail": "https://cdn.galaxycine.vn/media/2023/5/15/450_1684090253207.jpg",
+      "title": "The Flash Sẽ Có Nhiều Phiên Bản Batman?",
+      "description": "Người Dơi Michael Keaton sẽ trở lại rạp chiếu phim vào mùa hè năm nay. Chính xác là trong phim mới  thuộc vũ trụ điện ảnh DC.",
+      "createdAt": 1693842478644,
+      "content": "<div class='content-text'><p></p><p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><span style='line-height:107%'>Michael Keaton từng được xem là một diễn viên hài duyên dáng và cuốn hút. Điều đó khiến cho việc anh được chọn đóng Bruce Wayne ở phiên bản <i>Batman (1989)</i> đã nhận về nhiều phản hồi không mấy tốt đẹp. Phần đông đều cho rằng Keaton chẳng hợp vai, thật tệ khi anh chàng hóa thân thành nhân vật truyện tranh nổi tiếng. Nam diễn viên đã đáp trả bằng màn trình diễn không thể tuyệt vời hơn trong <i>Batman</i> và <i>Batman Returns (1992)</i>. Không hề bị lu mờ bởi Joker do Jack Nicholson thể hiện, Michael Keaton đã khắc họa thành công sự điềm tĩnh, sự mưu trí và bộ óc quan sát đáng gờm trên con đường chinh phục công lý của Kỵ Sĩ Bóng Đêm. Trong Batman Returns, tuy Penguin của Danny DeVito và Catwoman (Michelle Pfeiffer) cực kỳ xuất sắc, nhưng Keaton vẫn tỏa sáng vừa đủ đến gây ấn tượng là một trong những diễn viên thủ vai Batman thành công nhất.</span></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><span style='line-height:107%'>Sau hơn 30 năm, Người Dơi Michael Keaton sẽ trở lại <a href='https://www.galaxycine.vn/'>rạp chiếu phim</a> vào mùa hè năm nay. Chính xác là trong <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim mới </a><a href='https://www.galaxycine.vn/dat-ve/flash'><b><i>The Flash</i></b> </a>thuộc vũ trụ điện ảnh DC. Vẫn là bộ trang phục với logo cánh dơi in trên nền vàng, Keaton sử dụng đúng thứ vũ khí mà anh đã dùng để ngăn chặn Joker (Jack Nicholson). Ngoài ra lần này Batman sẽ hợp tác với Flash và Supergirl cùng nhau chống lại tướng Zod – kẻ phản diện quen thuộc của Siêu Nhân. Thậm chí, nhạc nền Batman năm 1989 do Danny Elfman sáng tác cũng vang lên mỗi khi Michael Keaton xuất hiện.</span></span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><span style='line-height:107%'><img alt='' height='349' src='https://cdn.galaxycine.vn/media/2023/5/15/1135_1684090214655.jpg' width='600' class='loading' data-was-processed='true'></span></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><span style='line-height:107%'>Vào tháng 08.2020, truyền thông khi ấy đồng loạt đưa tin Michael Keaton sẽ tái xuất với vai Người Dơi. Ngược về quá khứ, sau hai phần phim đầu tiên thì Tim Burton rời ghế đạo diễn. Thay vào là Joe Schumacher. Val Kilmer vào vai chính thay thế Michael Keaton trong <i>Batman Forever</i> (1995). Khi được hỏi về cảm nghĩ ra sao trong lần khoác lên mình bộ giáp Batman này, Keaton chia sẻ rằng “Tôi chỉ đơn giản là thấy tò mò nhiều hơn. Về cách mà mọi thứ thay đổi, giờ đây những nhân vật nằm trong thế giới khổng lồ. Nghe có vẻ kỳ lạ nhưng tôi bị thu hút kiểu đấy, ngỡ như đứng từ ngoài nhìn vào rồi thốt lên “Ôi đỉnh thật”. Không chỉ Keaton, Ben Affleck cũng sẽ tham gia The Flash với phiên bản Batman thuộc <b>DCEU</b>.</span></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><span style='line-height:107%'>Câu chuyện của Flash bắt đầu khi Barry Allen (Ezra Miller thủ vai) sử dụng siêu năng lực của mình để du hành thời gian nhằm thay đổi những sự kiện trong quá khứ. Nhưng khi nỗ lực cứu lấy gia đình mình vô tình thay đổi tương lai, Barry bị kẹt lại trong một thực tại, nơi tướng Zod tái xuất và đe dọa hủy diệt tất cả, nhưng không có bất cứ siêu anh hùng nào đứng ra giải cứu… Trừ khi Barry có thể thuyết phục một Batman rất khác và giải cứu một cư dân Kryptonian đang bị cầm tù… dẫu có thể đó không phải người mà anh thực sự tìm kiếm. Để giải cứu thế giới hiện tại cũng như trở lại tương lai mình từng biết, niềm hy vọng duy nhất của Barry là phải chạy đua vì cuộc đời mình. Vậy nhưng, sự hy sinh tuyệt đối đó có là đủ để đưa thế giới về lại như ban đầu? </span></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><span style='line-height:107%'>Câu trả lời sẽ có vào ngày 16.06.2023 tại các hệ thống rạp trên toàn quốc.</span></span></span></span></p></div>"
+    },
+    {
+      "id": 3,
+      "thumbnail": "https://cdn.galaxycine.vn/media/2023/1/4/elemental_1672806515767.jpg",
+      "title": "Top 10 Bom Tấn Đáng Trông Đợi 2023",
+      "description": "Điện ảnh 2023 đem tới vô số tác phẩm đáng mong chờ từ siêu anh hùng, hành động đến kinh dị, cùng các phần hậu truyện thú vị để các bạn phải móc hầu bao đến các rạp chiếu phim thưởng thức.",
+      "createdAt": 1693842478644,
+      "content": "<div class='content-text'><p></p><p><span style='font-size:14px;'>Năm 2022 là một năm đáng nhớ và đầy bùng nổ của điện ảnh với hàng loạt bom tấn được ra mắt sau 2 năm đóng băng vì dịch bệnh. Tiếp nối với bước đệm đó, 2023 cũng đem tới vô số tác phẩm đáng mong chờ từ siêu anh hùng, hành động đến kinh dị, cùng các phần hậu truyện thú vị để các bạn phải móc hầu bao đến các <a href='https://www.galaxycine.vn/'>rạp chiếu phim</a> thưởng thức.</span></p> <p><span style='font-size:14px;'>Cùng Galaxy Cinema điểm qua những bộ <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim chiếu rạp</a> được trông đợi ngay nào.</span><!--| --></p> <p><span style='font-size:14px;'><strong>1.&nbsp;&nbsp; &nbsp; Ant-Man and The Wasp: Quantumania (17/02)</strong></span></p> <p style='text-align: center;'><span style='font-size:14px;'><strong><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/ant-man-and-the-wasp-quantumania-scott-and-kang_1672805623116.webp' width='600' class='loading' data-was-processed='true'></strong></span></p> <p><span style='font-size:14px;'>Sau thành công của <em>Ant-Man (2015)</em> và <em>Ant-Man and the Wasp (2018)</em>, Marvel tiếp tục tung ra phần thứ 3 <strong>Ant-Man and the Wasp: Quantumania </strong>trong bối cảnh thế giới lượng tử. Tại đây, Scott Lang (<a href='https://www.galaxycine.vn/dien-vien/paul-rudd'>Paul Rudd</a>) cùng Hope van Dyne (Evangeline Lilly) sẽ phải đối đầu với tên phản diện khét tiếng Kang the Conqueror (Jonathan Majors), phản diện lớn nhất The Multiverse Saga của Vũ trụ Marvel.</span></p> <p><span style='font-size:14px;'>Bộ phim được cầm trịch bởi đạo diễn Peyton Reed, đánh dấu sự quay trở lại của nhóm anh hùng tí hon. <a href='https://www.galaxycine.vn/phim-dang-chieu'>Phim hay</a>&nbsp;hứa hẹn sẽ mang đến những trận chiến vượt ngoài trí tưởng tượng và phá vỡ các định luật vật lý. Đồng thời, tác phẩm cũng sẽ đặt nền móng cho trận chiến hoành tráng tiếp theo của nhóm Avengers trong thời đại mới.</span></p> <p><span style='font-size:14px;'><strong>2.&nbsp;&nbsp; &nbsp;Guardian Of The Galaxy Vol.3 (05/05)</strong></span></p> <p style='text-align: center;'><span style='font-size:14px;'><strong><img alt='' height='400' src='https://www.galaxycine.vn/media/2023/1/4/guardians-of-the-galaxy3-8401_1672805664389.jpg' width='600' class='loading' data-was-processed='true'></strong></span></p> <p><span style='font-size:14px;'>Dù không có quá nhiều người biết đến từ trước khi lên phim lần đầu tiên vào năm 2014, “rạp xiếc giải ngân hà” vẫn nhận được sự yêu thích hùng hậu từ người hâm mộ. Tiếp đà thành công đó, phần tiếp theo mang tên <em>Guardian of The Galaxy Vol.2</em> cũng được đánh giá vô cùng tích cực. Năm nay, phần cuối <strong>Guardians of the Galaxy Vol.3</strong> sẽ là bộ <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim chiếu rạp</a> nhiều người hâm mộ mong chờ. &nbsp;</span></p> <p><span style='font-size:14px;'>Lấy bối cảnh sau trận chiến với Thanos, Peter Quill (<a href='https://www.galaxycine.vn/dien-vien/chris-pratt'>Chris Pratt</a>) mang theo nỗi đau mất Gamora, một lần nữa tập hợp đội Vệ binh dải ngân hà thực hiện nhiệm vụ cuối cùng để bảo vệ vũ trụ. Lúc này, anh vô tình gặp lại Gamora (<a href='https://www.galaxycine.vn/dien-vien/zoe-saldana'>Zoe Saldana</a>), nhưng có khả năng cô đến từ dòng thời gian khác.</span></p> <p><span style='font-size:14px;'><strong>3.&nbsp;&nbsp; &nbsp;Shazam! Fury of the Gods (02/06)</strong></span></p> <p><span style='font-size:14px;'><em>Shazam!</em> từng được coi là điểm sáng hiếm hoi của DCEU trong một vũ trụ đen tối. Sau phần 1 khá thành công và đem về chuyển biến khả quan, nhà DC cho ra mắt phần 2 mang tên <strong>Shazam! Fury of the Gods</strong>.</span></p> <p><span style='font-size:14px;'>Billy Batson (Asher Angel) vốn chỉ là một cậu thiếu niên bình thường vô tình được các vị thần cổ đại ban cho siêu năng lực. Trong quá trình học cách thích nghi để trở thành siêu anh hùng thực thụ, Billy cũng không ít lần trăn trở về khả năng của mình. Nối tiếp câu chuyện của phần 1, <strong>Shazam! Fury of the Gods</strong> sẽ đưa khán giả đồng hành cùng Billy trên con đường khám phá bản thân và tìm ra lý tưởng của mình.</span></p> <p style='text-align: center;'><span style='font-size:14px;'><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/maxresdefault_1672805686003.jpg' width='600'></span></p> <p><span style='font-size:14px;'><strong>4.&nbsp;&nbsp; &nbsp;Spiderman Across Spider-Verse (02/06)</strong></span></p> <p><span style='font-size:14px;'><strong>Spider-Man: Across The Spider-Verse</strong> là phần hậu truyện của <em>Spider-Man: Into the Spider-Verse (2018)</em>. Không giống như nhiều phần tiếp theo của các phim hoạt hình nhượng quyền gần đây, <strong>Spider-Man: Across the Spider-Verse </strong>tập trung vào nhân vật chính thực sự và không nhắm đến thu hút những người xem phim đầu tiên chỉ vì tò mò.</span></p> <p style='text-align: center;'><span style='font-size:14px;'><img alt='' height='251' src='https://www.galaxycine.vn/media/2023/1/4/fvifidvwyaio0gr_1672805710209.jfif' width='600'></span></p> <p><span style='font-size:14px;'>Trước đó, trong trailer <strong>Spider-Man: Across The Spider-Verse</strong> cũng đã cho thấy tham vọng cực lớn của Sony với dự án lần này, khi họ đẩy Miles Morales vào cuộc chiến đa vũ trụ giữa vô số phiên bản khác nhau của Spider-Man. &nbsp;Người hâm mộ truyện tranh Marvel có thể nhận ra một vài nhân vật nổi bật như: Kaine Parker, Scarlet Spider, Superior Spider-Man hay Spider-Punk. Và đương nhiên, chúng ta không thể không kể đến Spider-Man 2099, gương mặt đã được 'nhá hàng' trong đoạn post-credit của phần đầu tiên.</span></p> <p><span style='font-size:14px;'><strong>5.&nbsp;&nbsp; &nbsp;Transfromers: Rise Of The Beast (09/06)</strong></span></p> <p><span style='font-size:14px;'><strong>Rise Of The Beasts</strong> là phần thứ 7 trong series thành công bậc nhất của Hollywood – <strong>Transformers</strong>, dự kiến tái xuất màn ảnh vào đầu năm 2023. Đây là phần đầu tiên trong dự án bộ ba được Paramount Pictures tái khởi động, hứa hẹn mở ra kỷ nguyên mới cho loạt phim huyền thoại này.</span></p> <p style='text-align: center;'><span style='font-size:14px;'><img alt='' height='250' src='https://www.galaxycine.vn/media/2023/1/4/transformers-feature-image_1672805731862.jpg' width='600'></span></p> <p><span style='font-size:14px;'>Trailer đầu tiên ngay khi được trình làng đã khiến người hâm mộ vô cùng hào hứng vì độ kịch tính và hoành tráng. <strong>Transfromers: Rise Of The Beasts</strong> lấy bối cảnh vào năm 1994, khoảng thời gian tiếp sau khi Bumblebee xuất hiện. Như tựa đề đã thể hiện, phần <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim mới</a>&nbsp;này dựa theo bộ truyện Beast Wars cực kỳ ăn khách vào thập niên 1990. Đây cũng là lần đầu tiên, một nhóm robot mới xuất hiện, có khả năng biến mình thành động vật thay vì xe hơi&nbsp;như trước đó.</span></p> <p><span style='font-size:14px;'><strong>6.&nbsp;&nbsp; &nbsp;Elemental (16/06)</strong></span></p> <p style='text-align: center;'><span style='font-size:14px;'><strong><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/elemental-thumb_1672805812715.jpg' width='600'></strong></span></p> <p><span style='font-size:14px;'><strong>Elemental</strong> là một bộ phim giả tưởng của Pixar nơi các nguyên tố đất, lửa, nước, không khí được nhân cách hóa một cách sinh động. Câu chuyện xoay quanh cuộc gặp gỡ giữa cô gái được tạo ra từ lửa Ember (Leah Lewis lồng tiếng) và chàng trai được làm từ nước Wade (Mamoudou Athie lồng tiếng). Họ cùng nhau trải qua cuộc hành trình thú vị để từ đó thấu hiểu những điểm khác biệt của đối phương. &nbsp;</span></p> <p><span style='font-size:14px;'>Bộ <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim chiếu rạp</a>&nbsp;được cầm trịch bởi đạo diễn Peter Sohn, lấy cảm hứng từ cuộc sống thời niên thiếu của anh ở New York vào những năm 1970. Thông qua <strong>Elemental</strong>, anh muốn nhấn mạnh sự đa dạng về văn hóa và sắc tộc ở thành phố này.</span></p> <p><span style='font-size:14px;'><strong>7.&nbsp;&nbsp; &nbsp;Fast X (19/05)</strong></span></p> <p><span style='font-size:14px;'><em>Fast &amp; Furious</em>, 1 trong những franchise hành động lớn nhất thế giới, đang dần đi đến hồi kết sau hơn 2 thập kỷ càn quét màn ảnh rộng. Theo kế hoạch, 2 phần phim tiếp theo,<em> Fast 10 &amp; 11</em>, sẽ là những chương cuối cùng khép lại hành trình của gia đình nhà Fast. Đây thực chất là 1 dự án được chia thành 2 nửa, ra mắt cách nhau khoảng 1 năm, tương tự như <em>Avengers: Infinity War</em> &amp; <em>Avengers: Endgame</em> của Marvel Studios.</span></p> <p><span style='font-size:14px;'>Với chi phí làm phim khổng lồ (340 triệu USD), <strong>Fast X</strong> góp mặt vào vị trí thứ 5 trong hàng ngũ những dự án điện ảnh đắt đỏ nhất lịch sử. Bộ phim hứa hẹn sẽ vượt mọi kỳ vọng của khán giả và hoàn toàn xứng đáng để chờ đợi.</span></p> <p style='text-align: center;'><span style='font-size:14px;'><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/vqeqnkvytgpcxuzfshhfc3_1672805851960.jpg' width='600'></span></p> <p><span style='font-size:14px;'><strong>8.&nbsp;&nbsp; &nbsp;Mission: Impossible 7 (14/07)</strong></span></p> <p style='margin-top:0cm; margin-right:0cm; margin-bottom:15.0pt; margin-left:0cm; text-align:justify'><span style='font-size:14px;'><span style='background:white'><span style='line-height:19.5pt'><span><span>Nếu ai đã quá mê mẩn với <i>Top Gun: Marverick</i> và muốn xem <a href='https://www.galaxycine.vn/dien-vien/tom-cruise'>Tom Cruise</a> “đùa giỡn với tử thần” trên màn ảnh thì <strong>Nhiệm Vụ Bất Khả Thi: Nghiệp Báo</strong> sẽ là lựa chọn vô cùng phù hợp.</span>&nbsp;<span style='background:white'><span>Với kịch bản được đầu tư chỉn chu và cầm trịch bởi đạo diễn Christopher McQuarrie, sự trở lại này sẽ rất đáng mong đợi.</span></span></span></span></span></span></p> <p style='margin: 0cm 0cm 15pt; text-align: center;'><span style='font-size:14px;'><span style='background:white'><span style='line-height:19.5pt'><span><span style='background:white'><span><img alt='' height='337' src='https://www.galaxycine.vn/media/2023/1/4/mv5bzjbjngrmm2etntk3ms00ywuwlwezowmtnzg3m2jmmtq4owvlxkeyxkfqcgdeqwrvb2xpbmhk--v1-_1672805872111.jpg' width='600'></span></span></span></span></span></span></p> <p style='margin-top:0cm; margin-right:0cm; margin-bottom:15.0pt; margin-left:0cm; text-align:justify'><span style='font-size:14px;'><span style='background:white'><span style='line-height:19.5pt'><span><span style='background:white'><span>Trailer chỉ vỏn vẹn hơn 2 phút nhưng đã mở ra một cuộc chiến không kém phần kịch tính so với các mùa trước, từ sa mạc, xa lộ đến cuộc chiến trên không hay trong tầng hầm tăm tối. Những pha rượt đuổi gay cấn đến nghẹt thở của đặc vụ Ethan Hunt hứa hẹn sẽ bùng nổ rạp chiếu phim sắp tới. </span></span></span></span></span></span></p> <p style='margin-top:0cm; margin-right:0cm; margin-bottom:15.0pt; margin-left:0cm; text-align:justify'><span style='font-size:14px;'><strong><span style='background:white'><span style='line-height:19.5pt'><span><span style='background:white'><span>9.&nbsp;&nbsp; &nbsp;The Nun 2 (08/09)</span></span></span></span></span></strong></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'>Cùng với hai vũ trụ điện ảnh siêu anh hùng là Marvel và DC, các ông lớn Hollywood còn sở hữu một vũ trụ điện ảnh khác cũng thành công không kém là vũ trụ phim kinh dị của Warner Bros, tập hợp những tác phẩm đình đám như</span></span> <span style='background:white'><span style='line-height:107%'>trilogy <em>The Conjuring</em> hay <em>Annabelle</em></span></span><span style='background:white'><span style='line-height:107%'>. Trong đó, nhân vật nhận được nhiều sự yêu thích nhất từ người hâm mộ chính là ma sơ Valak, con quỷ tà ác sở hữu sức mạnh khủng khiếp lần đầu xuất hiện trong&nbsp;<em><span>The Conjuring 2</span></em>.</span></span></span></span></span></p> <p style='margin: 0cm 0cm 8pt; text-align: center;'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'><img alt='' height='251' src='https://www.galaxycine.vn/media/2023/1/4/nun-t1-0020_1672805894062.jpg' width='600'></span></span></span></span></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'>Trước đó ở cuối phần 1, khán giả được biết rằng con quỷ này vẫn chưa bị đánh bại mà thực chất nó đã ám vào chàng nông dân Maurice rồi tìm cách hãm hại Lorraine. Mặc dù nội dung của&nbsp;<em><span>The Nun 2</span></em>&nbsp;vẫn chưa được tiết lộ, song người hâm mộ đang rất mong chờ vào một tác phẩm chất lượng cao, xứng với sự mong chờ bấy lâu nay của mình.</span></span></span></span></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><strong><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'>10.&nbsp;&nbsp; &nbsp; Insidious 5 (07/07)</span></span></span></span></strong></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'><strong>Insidious 5</strong> hiện đang rất được các tín đồ phim kinh dị mong đợi vì&nbsp;đây không chỉ đánh dấu sự ra mắt&nbsp;của Patrick Wilson - nam chính của hai phần phim&nbsp;<em>Insidious </em>đầu tiên - trong vai trò đạo diễn&nbsp;mà còn là phần phim&nbsp;đưa nhân vật Josh Lambert trở lại với tư cách là nhân vật chính của câu chuyện lần đầu tiên kể từ phần 2 của nhượng quyền thương mại.</span></span></span></span></span></p> <p style='margin: 0cm 0cm 8pt; text-align: center;'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/img-8448-1024x576_1672805910182.jpg' width='600'></span></span></span></span></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><span style='background:white'><span style='line-height:107%'><span>Phần phim mới sẽ được lấy&nbsp;bối cảnh diễn ra 10 năm sau các sự kiện xảy ra ở&nbsp;<i>Quỷ Quyệt 2</i>, khi Dalton, cậu con trai của Josh&nbsp;đã trưởng thành, chuẩn bị bước vào ngưỡng cửa đại học&nbsp;và phần còn lại của gia đình Lambert phải đối mặt với hậu quả từ quyết định của họ trong quá khứ cách đây gần một thập kỉ.</span></span></span></span></p> </div>"
+    },
+    {
+      "id": 4,
+      "thumbnail": "https://cdn.galaxycine.vn/media/2023/1/6/avatar-the-way-of-water-manh-khong-can-noi--disney-tiep-tuc-dan-dau-doanh-thu-5_1672995821339.jpg",
+      "title": "Avatar The Way Of Water Mạnh Không Cản Nổi, Disney Tiếp Tục Dẫn Đầu Doanh Thu",
+      "description": "Nhà Chuột lại đại thắng năm nay, anti cũng chả cãi nổi! Hãy nhìn lại bảng xếp hạng phòng vé đi nào! ",
+      "createdAt": 1693842478644,
+      "content": "<div class='content-text'><p></p><p><span style='font-size:14px;'>Năm 2022 là một năm đáng nhớ và đầy bùng nổ của điện ảnh với hàng loạt bom tấn được ra mắt sau 2 năm đóng băng vì dịch bệnh. Tiếp nối với bước đệm đó, 2023 cũng đem tới vô số tác phẩm đáng mong chờ từ siêu anh hùng, hành động đến kinh dị, cùng các phần hậu truyện thú vị để các bạn phải móc hầu bao đến các <a href='https://www.galaxycine.vn/'>rạp chiếu phim</a> thưởng thức.</span></p> <p><span style='font-size:14px;'>Cùng Galaxy Cinema điểm qua những bộ <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim chiếu rạp</a> được trông đợi ngay nào.</span><!--| --></p> <p><span style='font-size:14px;'><strong>1.&nbsp;&nbsp; &nbsp; Ant-Man and The Wasp: Quantumania (17/02)</strong></span></p> <p style='text-align: center;'><span style='font-size:14px;'><strong><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/ant-man-and-the-wasp-quantumania-scott-and-kang_1672805623116.webp' width='600' class='loading' data-was-processed='true'></strong></span></p> <p><span style='font-size:14px;'>Sau thành công của <em>Ant-Man (2015)</em> và <em>Ant-Man and the Wasp (2018)</em>, Marvel tiếp tục tung ra phần thứ 3 <strong>Ant-Man and the Wasp: Quantumania </strong>trong bối cảnh thế giới lượng tử. Tại đây, Scott Lang (<a href='https://www.galaxycine.vn/dien-vien/paul-rudd'>Paul Rudd</a>) cùng Hope van Dyne (Evangeline Lilly) sẽ phải đối đầu với tên phản diện khét tiếng Kang the Conqueror (Jonathan Majors), phản diện lớn nhất The Multiverse Saga của Vũ trụ Marvel.</span></p> <p><span style='font-size:14px;'>Bộ phim được cầm trịch bởi đạo diễn Peyton Reed, đánh dấu sự quay trở lại của nhóm anh hùng tí hon. <a href='https://www.galaxycine.vn/phim-dang-chieu'>Phim hay</a>&nbsp;hứa hẹn sẽ mang đến những trận chiến vượt ngoài trí tưởng tượng và phá vỡ các định luật vật lý. Đồng thời, tác phẩm cũng sẽ đặt nền móng cho trận chiến hoành tráng tiếp theo của nhóm Avengers trong thời đại mới.</span></p> <p><span style='font-size:14px;'><strong>2.&nbsp;&nbsp; &nbsp;Guardian Of The Galaxy Vol.3 (05/05)</strong></span></p> <p style='text-align: center;'><span style='font-size:14px;'><strong><img alt='' height='400' src='https://www.galaxycine.vn/media/2023/1/4/guardians-of-the-galaxy3-8401_1672805664389.jpg' width='600' class='loading' data-was-processed='true'></strong></span></p> <p><span style='font-size:14px;'>Dù không có quá nhiều người biết đến từ trước khi lên phim lần đầu tiên vào năm 2014, “rạp xiếc giải ngân hà” vẫn nhận được sự yêu thích hùng hậu từ người hâm mộ. Tiếp đà thành công đó, phần tiếp theo mang tên <em>Guardian of The Galaxy Vol.2</em> cũng được đánh giá vô cùng tích cực. Năm nay, phần cuối <strong>Guardians of the Galaxy Vol.3</strong> sẽ là bộ <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim chiếu rạp</a> nhiều người hâm mộ mong chờ. &nbsp;</span></p> <p><span style='font-size:14px;'>Lấy bối cảnh sau trận chiến với Thanos, Peter Quill (<a href='https://www.galaxycine.vn/dien-vien/chris-pratt'>Chris Pratt</a>) mang theo nỗi đau mất Gamora, một lần nữa tập hợp đội Vệ binh dải ngân hà thực hiện nhiệm vụ cuối cùng để bảo vệ vũ trụ. Lúc này, anh vô tình gặp lại Gamora (<a href='https://www.galaxycine.vn/dien-vien/zoe-saldana'>Zoe Saldana</a>), nhưng có khả năng cô đến từ dòng thời gian khác.</span></p> <p><span style='font-size:14px;'><strong>3.&nbsp;&nbsp; &nbsp;Shazam! Fury of the Gods (02/06)</strong></span></p> <p><span style='font-size:14px;'><em>Shazam!</em> từng được coi là điểm sáng hiếm hoi của DCEU trong một vũ trụ đen tối. Sau phần 1 khá thành công và đem về chuyển biến khả quan, nhà DC cho ra mắt phần 2 mang tên <strong>Shazam! Fury of the Gods</strong>.</span></p> <p><span style='font-size:14px;'>Billy Batson (Asher Angel) vốn chỉ là một cậu thiếu niên bình thường vô tình được các vị thần cổ đại ban cho siêu năng lực. Trong quá trình học cách thích nghi để trở thành siêu anh hùng thực thụ, Billy cũng không ít lần trăn trở về khả năng của mình. Nối tiếp câu chuyện của phần 1, <strong>Shazam! Fury of the Gods</strong> sẽ đưa khán giả đồng hành cùng Billy trên con đường khám phá bản thân và tìm ra lý tưởng của mình.</span></p> <p style='text-align: center;'><span style='font-size:14px;'><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/maxresdefault_1672805686003.jpg' width='600'></span></p> <p><span style='font-size:14px;'><strong>4.&nbsp;&nbsp; &nbsp;Spiderman Across Spider-Verse (02/06)</strong></span></p> <p><span style='font-size:14px;'><strong>Spider-Man: Across The Spider-Verse</strong> là phần hậu truyện của <em>Spider-Man: Into the Spider-Verse (2018)</em>. Không giống như nhiều phần tiếp theo của các phim hoạt hình nhượng quyền gần đây, <strong>Spider-Man: Across the Spider-Verse </strong>tập trung vào nhân vật chính thực sự và không nhắm đến thu hút những người xem phim đầu tiên chỉ vì tò mò.</span></p> <p style='text-align: center;'><span style='font-size:14px;'><img alt='' height='251' src='https://www.galaxycine.vn/media/2023/1/4/fvifidvwyaio0gr_1672805710209.jfif' width='600'></span></p> <p><span style='font-size:14px;'>Trước đó, trong trailer <strong>Spider-Man: Across The Spider-Verse</strong> cũng đã cho thấy tham vọng cực lớn của Sony với dự án lần này, khi họ đẩy Miles Morales vào cuộc chiến đa vũ trụ giữa vô số phiên bản khác nhau của Spider-Man. &nbsp;Người hâm mộ truyện tranh Marvel có thể nhận ra một vài nhân vật nổi bật như: Kaine Parker, Scarlet Spider, Superior Spider-Man hay Spider-Punk. Và đương nhiên, chúng ta không thể không kể đến Spider-Man 2099, gương mặt đã được 'nhá hàng' trong đoạn post-credit của phần đầu tiên.</span></p> <p><span style='font-size:14px;'><strong>5.&nbsp;&nbsp; &nbsp;Transfromers: Rise Of The Beast (09/06)</strong></span></p> <p><span style='font-size:14px;'><strong>Rise Of The Beasts</strong> là phần thứ 7 trong series thành công bậc nhất của Hollywood – <strong>Transformers</strong>, dự kiến tái xuất màn ảnh vào đầu năm 2023. Đây là phần đầu tiên trong dự án bộ ba được Paramount Pictures tái khởi động, hứa hẹn mở ra kỷ nguyên mới cho loạt phim huyền thoại này.</span></p> <p style='text-align: center;'><span style='font-size:14px;'><img alt='' height='250' src='https://www.galaxycine.vn/media/2023/1/4/transformers-feature-image_1672805731862.jpg' width='600'></span></p> <p><span style='font-size:14px;'>Trailer đầu tiên ngay khi được trình làng đã khiến người hâm mộ vô cùng hào hứng vì độ kịch tính và hoành tráng. <strong>Transfromers: Rise Of The Beasts</strong> lấy bối cảnh vào năm 1994, khoảng thời gian tiếp sau khi Bumblebee xuất hiện. Như tựa đề đã thể hiện, phần <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim mới</a>&nbsp;này dựa theo bộ truyện Beast Wars cực kỳ ăn khách vào thập niên 1990. Đây cũng là lần đầu tiên, một nhóm robot mới xuất hiện, có khả năng biến mình thành động vật thay vì xe hơi&nbsp;như trước đó.</span></p> <p><span style='font-size:14px;'><strong>6.&nbsp;&nbsp; &nbsp;Elemental (16/06)</strong></span></p> <p style='text-align: center;'><span style='font-size:14px;'><strong><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/elemental-thumb_1672805812715.jpg' width='600'></strong></span></p> <p><span style='font-size:14px;'><strong>Elemental</strong> là một bộ phim giả tưởng của Pixar nơi các nguyên tố đất, lửa, nước, không khí được nhân cách hóa một cách sinh động. Câu chuyện xoay quanh cuộc gặp gỡ giữa cô gái được tạo ra từ lửa Ember (Leah Lewis lồng tiếng) và chàng trai được làm từ nước Wade (Mamoudou Athie lồng tiếng). Họ cùng nhau trải qua cuộc hành trình thú vị để từ đó thấu hiểu những điểm khác biệt của đối phương. &nbsp;</span></p> <p><span style='font-size:14px;'>Bộ <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim chiếu rạp</a>&nbsp;được cầm trịch bởi đạo diễn Peter Sohn, lấy cảm hứng từ cuộc sống thời niên thiếu của anh ở New York vào những năm 1970. Thông qua <strong>Elemental</strong>, anh muốn nhấn mạnh sự đa dạng về văn hóa và sắc tộc ở thành phố này.</span></p> <p><span style='font-size:14px;'><strong>7.&nbsp;&nbsp; &nbsp;Fast X (19/05)</strong></span></p> <p><span style='font-size:14px;'><em>Fast &amp; Furious</em>, 1 trong những franchise hành động lớn nhất thế giới, đang dần đi đến hồi kết sau hơn 2 thập kỷ càn quét màn ảnh rộng. Theo kế hoạch, 2 phần phim tiếp theo,<em> Fast 10 &amp; 11</em>, sẽ là những chương cuối cùng khép lại hành trình của gia đình nhà Fast. Đây thực chất là 1 dự án được chia thành 2 nửa, ra mắt cách nhau khoảng 1 năm, tương tự như <em>Avengers: Infinity War</em> &amp; <em>Avengers: Endgame</em> của Marvel Studios.</span></p> <p><span style='font-size:14px;'>Với chi phí làm phim khổng lồ (340 triệu USD), <strong>Fast X</strong> góp mặt vào vị trí thứ 5 trong hàng ngũ những dự án điện ảnh đắt đỏ nhất lịch sử. Bộ phim hứa hẹn sẽ vượt mọi kỳ vọng của khán giả và hoàn toàn xứng đáng để chờ đợi.</span></p> <p style='text-align: center;'><span style='font-size:14px;'><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/vqeqnkvytgpcxuzfshhfc3_1672805851960.jpg' width='600'></span></p> <p><span style='font-size:14px;'><strong>8.&nbsp;&nbsp; &nbsp;Mission: Impossible 7 (14/07)</strong></span></p> <p style='margin-top:0cm; margin-right:0cm; margin-bottom:15.0pt; margin-left:0cm; text-align:justify'><span style='font-size:14px;'><span style='background:white'><span style='line-height:19.5pt'><span><span>Nếu ai đã quá mê mẩn với <i>Top Gun: Marverick</i> và muốn xem <a href='https://www.galaxycine.vn/dien-vien/tom-cruise'>Tom Cruise</a> “đùa giỡn với tử thần” trên màn ảnh thì <strong>Nhiệm Vụ Bất Khả Thi: Nghiệp Báo</strong> sẽ là lựa chọn vô cùng phù hợp.</span>&nbsp;<span style='background:white'><span>Với kịch bản được đầu tư chỉn chu và cầm trịch bởi đạo diễn Christopher McQuarrie, sự trở lại này sẽ rất đáng mong đợi.</span></span></span></span></span></span></p> <p style='margin: 0cm 0cm 15pt; text-align: center;'><span style='font-size:14px;'><span style='background:white'><span style='line-height:19.5pt'><span><span style='background:white'><span><img alt='' height='337' src='https://www.galaxycine.vn/media/2023/1/4/mv5bzjbjngrmm2etntk3ms00ywuwlwezowmtnzg3m2jmmtq4owvlxkeyxkfqcgdeqwrvb2xpbmhk--v1-_1672805872111.jpg' width='600'></span></span></span></span></span></span></p> <p style='margin-top:0cm; margin-right:0cm; margin-bottom:15.0pt; margin-left:0cm; text-align:justify'><span style='font-size:14px;'><span style='background:white'><span style='line-height:19.5pt'><span><span style='background:white'><span>Trailer chỉ vỏn vẹn hơn 2 phút nhưng đã mở ra một cuộc chiến không kém phần kịch tính so với các mùa trước, từ sa mạc, xa lộ đến cuộc chiến trên không hay trong tầng hầm tăm tối. Những pha rượt đuổi gay cấn đến nghẹt thở của đặc vụ Ethan Hunt hứa hẹn sẽ bùng nổ rạp chiếu phim sắp tới. </span></span></span></span></span></span></p> <p style='margin-top:0cm; margin-right:0cm; margin-bottom:15.0pt; margin-left:0cm; text-align:justify'><span style='font-size:14px;'><strong><span style='background:white'><span style='line-height:19.5pt'><span><span style='background:white'><span>9.&nbsp;&nbsp; &nbsp;The Nun 2 (08/09)</span></span></span></span></span></strong></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'>Cùng với hai vũ trụ điện ảnh siêu anh hùng là Marvel và DC, các ông lớn Hollywood còn sở hữu một vũ trụ điện ảnh khác cũng thành công không kém là vũ trụ phim kinh dị của Warner Bros, tập hợp những tác phẩm đình đám như</span></span> <span style='background:white'><span style='line-height:107%'>trilogy <em>The Conjuring</em> hay <em>Annabelle</em></span></span><span style='background:white'><span style='line-height:107%'>. Trong đó, nhân vật nhận được nhiều sự yêu thích nhất từ người hâm mộ chính là ma sơ Valak, con quỷ tà ác sở hữu sức mạnh khủng khiếp lần đầu xuất hiện trong&nbsp;<em><span>The Conjuring 2</span></em>.</span></span></span></span></span></p> <p style='margin: 0cm 0cm 8pt; text-align: center;'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'><img alt='' height='251' src='https://www.galaxycine.vn/media/2023/1/4/nun-t1-0020_1672805894062.jpg' width='600'></span></span></span></span></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'>Trước đó ở cuối phần 1, khán giả được biết rằng con quỷ này vẫn chưa bị đánh bại mà thực chất nó đã ám vào chàng nông dân Maurice rồi tìm cách hãm hại Lorraine. Mặc dù nội dung của&nbsp;<em><span>The Nun 2</span></em>&nbsp;vẫn chưa được tiết lộ, song người hâm mộ đang rất mong chờ vào một tác phẩm chất lượng cao, xứng với sự mong chờ bấy lâu nay của mình.</span></span></span></span></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><strong><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'>10.&nbsp;&nbsp; &nbsp; Insidious 5 (07/07)</span></span></span></span></strong></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'><strong>Insidious 5</strong> hiện đang rất được các tín đồ phim kinh dị mong đợi vì&nbsp;đây không chỉ đánh dấu sự ra mắt&nbsp;của Patrick Wilson - nam chính của hai phần phim&nbsp;<em>Insidious </em>đầu tiên - trong vai trò đạo diễn&nbsp;mà còn là phần phim&nbsp;đưa nhân vật Josh Lambert trở lại với tư cách là nhân vật chính của câu chuyện lần đầu tiên kể từ phần 2 của nhượng quyền thương mại.</span></span></span></span></span></p> <p style='margin: 0cm 0cm 8pt; text-align: center;'><span style='font-size:14px;'><span style='line-height:107%'><span><span style='background:white'><span style='line-height:107%'><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/1/4/img-8448-1024x576_1672805910182.jpg' width='600'></span></span></span></span></span></p> <p style='margin:0cm 0cm 8pt'><span style='font-size:14px;'><span style='background:white'><span style='line-height:107%'><span>Phần phim mới sẽ được lấy&nbsp;bối cảnh diễn ra 10 năm sau các sự kiện xảy ra ở&nbsp;<i>Quỷ Quyệt 2</i>, khi Dalton, cậu con trai của Josh&nbsp;đã trưởng thành, chuẩn bị bước vào ngưỡng cửa đại học&nbsp;và phần còn lại của gia đình Lambert phải đối mặt với hậu quả từ quyết định của họ trong quá khứ cách đây gần một thập kỉ.</span></span></span></span></p> </div>"
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://cdn.galaxycine.vn/media/2023/2/14/fast-x--vin-diesel-ru-dan-sieu-anh-hung-dua-xe-6_1676348176123.jpg",
+      "title": "Fast X:  Vin Diesel Rủ Dàn Siêu Anh Hùng Đua Xe?",
+      "description": "Fast X – phần mở đầu cho “cuộc đua cuối” của đại gia đình Toretto vừa tung ra trailer siêu hấp dẫn vào 10.02 vừa qua.",
+      "createdAt": 1693842478644,
+      "content": "<div class='content-text'><p></p><p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'><b>Fast X</b> – phần mở đầu cho “cuộc đua cuối” của đại gia đình Toretto vừa tung ra trailer siêu hấp dẫn vào 10.02 vừa qua. </span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span><span style='font-size:14px;'><span style='line-height:107%'><img alt='' height='400' src='https://www.galaxycine.vn/media/2023/2/14/fast-x--vin-diesel-ru-dan-sieu-anh-hung-dua-xe-3_1676348570845.jpg' width='600'></span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Sau F9 bị đánh giá là hụt hơi, cộng thêm việc mất đi Dwayne Johnson và đạo diễn Justin Lin, <b>Fast X</b> có gì hấp dẫn? </span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span><span style='font-size:14px;'><span style='line-height:107%'><img alt='' height='400' src='https://www.galaxycine.vn/media/2023/2/14/fast-x--vin-diesel-ru-dan-sieu-anh-hung-dua-xe-5_1676348308113.jpg' width='600'></span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Đầu tiên, trailer xuất hiện khá nhiều nhân vật mới. Đó là bà nội Dom, kẻ thù mới và bạn mới.</span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Dom Abuela Toretto (Rita Moreno) mở đầu đoạn giới thiệu bằng bài phát biểu “Bà biết rằng đường đời đầy chông gai. Tuy vậy, cháu vẫn xây dựng được gia đình hoành tráng này.” Đồng nghĩa với việc gia đình ngày càng lớn, <a href='https://www.galaxycine.vn/dien-vien/vin-diesel'>Vin Diesel</a> cần phải trả lương cho nhiều sao hơn, đùa thôi, Dominic Toretto có nhiều nỗi lo hơn.</span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span><span style='font-size:14px;'><span style='line-height:107%'><img alt='' height='360' src='https://www.galaxycine.vn/media/2023/2/14/fast-x--vin-diesel-ru-dan-sieu-anh-hung-dua-xe-7_1676348495074.jpg' width='600'></span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Kẻ phản diện phần này là Dante (Jason Momoa) – bóng ma từ quá khứ. Hãy nhớ về <i>Fast Five</i>, thuở <i>Fast &amp; Furious </i>vẫn là một thương hiệu đua xe đúng nghĩa, khi Gisele (Gal Gadot) còn sống, những người bạn thân quen nhận lời kêu gọi của Dom đến Rio de Janeiro để đánh cướp Reyes (Joaquim de Almeida) – gã doanh nhân thao túng cả thành phố. Cả bọn thành công cướp đi chiếc két sắt chứa 100 triệu đô, Reyes thì mất mạng. Gia đình Dante bị cướp đi, vì vậy, hắn tìm nhà Toretto đòi nợ.</span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span><span style='font-size:14px;'><span style='line-height:107%'><img alt='' height='300' src='https://www.galaxycine.vn/media/2023/2/14/fast-x--vin-diesel-ru-dan-sieu-anh-hung-dua-xe-10_1676348259145.jpg' width='600'></span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Dante xuất hiện với ngoại hình đối lập Dom. Đạo diễn Louis Leterrier lí giải về nhân vật này: “Hắn học hỏi Dom nhiều năm, biến bản thân thành kẻ anti-Dom. Dom là dương, hắn là âm. Dom mặc đồ đơn sắc, Dante diện quần áo sặc sỡ. Dom cạo đầu, Dante để tóc dài và sơn móng tay. Dom lái Dodge, hắn lái Chevy.”</span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span><span style='font-size:14px;'><span style='line-height:107%'><img alt='' height='360' src='https://www.galaxycine.vn/media/2023/2/14/fast-x--vin-diesel-ru-dan-sieu-anh-hung-dua-xe-8_1676348521567.jpg' width='600'></span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Tuy nhiên, có một chi tiết đáng chú ý là Reyes bị viên đặc vụ&nbsp; FBI Hobbs (<a href='https://www.galaxycine.vn/dien-vien/dwayne-johnson'>Dwayne Johnson</a>) kết liễu. Xét việc nhà Toretto nào phải là kẻ trực tiếp dẫn đến cái chết, nhiều khả năng, Hobbs đã bị Dante khử trước. Cũng giống như cách Deckard Shaw (<a href='https://www.galaxycine.vn/dien-vien/jason-statham'>Jason Statham</a>) xuất hiện, giết Han (Sung Kang) và gửi lời đe dọa cả nhà Torreto ở Fast 7. Đây là giả thiết dễ xảy ra nhất bởi <a href='https://www.galaxycine.vn/dien-vien/dwayne-johnson'>Dwayne Johnso</a>n từ chối lời mời trở lại<em> Fast &amp; Furious</em> do những bất đồng cùng nam chính kiêm nhà sản xuất <a href='https://www.galaxycine.vn/dien-vien/vin-diesel'>Vin Diesel</a>.</span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Chà, đúng là đừng nên “quay lưng lại với gia đình”!</span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Dante thề cho Dominic Toretto biết sợ là gì, xé nát gia đình anh. Hắn bắt bé Brian – con trai Dom và cô cảnh sát quá cố Elena. Cipher (<a href='https://www.galaxycine.vn/dien-vien/charlize-theron'>Charlize Theron</a>) - ả phản diện khiến gia đình Dom khốn khổ ở hai phần gần nhất cũng tái xuất giang hồ, xáp lá cà Letty (Michelle Rodriguez). </span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>“Trong chúng ta sẽ có người không quay lại…”</span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>&nbsp;“Đó là vấn đề của những đứa có gia đình lớn như thế. Mày biết chọn ai để cứu đây?”</span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span><span style='font-size:14px;'><span style='line-height:107%'><img alt='' height='362' src='https://www.galaxycine.vn/media/2023/2/14/fast-x--vin-diesel-ru-dan-sieu-anh-hung-dua-xe-9_1676348356447.jpg' width='600'></span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Hai câu thoại dự báo tương lai bão tố cho đại gia đình Toretto. Ai là người hi sinh? Ngoài Hobbs, các thành viên còn lại đều hết sức quan trọng. người vợ đã từng “chết” Letty, Han vừa quay trở lại sau nhiều năm”chết”, đứa em Jakob xa cách vài chục năm hay Roman, Tej, Ramsey... Hoặc có lẽ là người bà Abuela vừa xuất hiện? Hay <b>Fast X</b> sẽ khai tử quý bà Queenie (Helen Mirren) nhằm tạo động lực giúp anh em nhà Shaw lập nhóm cùng nhà Toretto? Ngoài ra, nhân vật chưa biết tên do Daniela Melchior thủ vai lái xe vàng xuất hiện trong cuộc đua bên cạnh Dom và Dante. Tại một cảnh khác, chiếc xe tương tự gặp nạn. </span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span><span style='font-size:14px;'><span style='line-height:107%'><img alt='' height='338' src='https://www.galaxycine.vn/media/2023/2/14/fast-x--vin-diesel-ru-dan-sieu-anh-hung-dua-xe-1_1676348626129.jpg' width='600'></span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Dĩ nhiên, Fast &amp; Furious không thể thiếu xe. Trailer dài 3ph39 cho thấy rất nhiều chiếc xe “hi sinh”, Dom và Dante cũng có trận đua nảy lửa, đúng chất Fast &amp; Furious. Cảnh phim kéo két sắt qua cầu lần nữa xuất hiện. Louis Leterrier hào hứng chia sẻ 'Đấy là một những khoảnh khắc kinh điển, vì thế chúng tôi muốn “Nào hãy Rashomon cảnh này.”</span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>*Rashomon: Là thuật ngữ điện ảnh, khi một sự việc được diễn giải khác nhau bởi góc nhìn của nhiều cá nhân.</span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Tess (<a href='https://www.galaxycine.vn/dien-vien/brie-larson'>Brie Larson</a>) xuất hiện với lời cảnh báo. Cô là người của Mr.Nobody (Kurt Russell). Chưa rõ ông có xuất hiện không hay sẽ nhường đất diễn về phần Little Nobody (Scott Eastwood). Queenie xuất hiện an ủi Dom trong lúc cậu con trai Deckard và Han buộc phải gạt bỏ quá khứ thù hận để cùng chiến đấu. </span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'>Nhân vật mới hấp dẫn, phản diện ấn tượng, đua xe trên phố chứ chẳng phải ngoài không gian… Trailer <b>Fast X</b> giúp các fan trung thành củng cố niềm tin vào “cuộc đua cuối”!</span></span></span></p> <p style='margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'><a href='https://www.galaxycine.vn/phim-dang-chieu'><i>Phim mới</i></a> <b>Fast X</b> dự kiến ra mắt tại hệ thống <a href='https://www.galaxycine.vn/'><i>rạp chiếu phim</i></a> toàn quốc từ 19.05.2023.</span></span></span></p> <p align='right' style='text-align:right; margin:0in 0in 8pt'><span><span style='font-size:14px;'><span style='line-height:107%'><b>Lược dịch và tổng hợp theo Insider &amp; Collider</b></span></span></span></p></div>"
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://cdn.galaxycine.vn/media/2022/11/30/450_1669779325936.jpg",
+      "title": "Avatar Và Những Tựa Phim Bắt Khán Giả Đợi Dài Cổ",
+      "description": "Hãy cùng điểm danh những tựa phim từng chịu số phận “ngâm kho” trong lịch sử!",
+      "createdAt": 1693842478644,
+      "content": "<div class='content-text'><p></p><p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Quá trình để có một cuốn <a href='https://www.galaxycine.vn/phim-dang-chieu'>phim hay</a> sẽ như thế nào?</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Từ bất kỳ ý tưởng bất chợt nào đấy, phải chuyển hóa chúng thành những trang kịch bản hoàn chỉnh. Tiếp đến là tuyển diễn viên, các công đoạn tiền kỳ phải được chuẩn bị đầy đủ. Khi tiến hành quay, bởi có nhiều yếu tố tác động nên thời gian ngắn hay dài là điều không nói trước được.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Hoàn tất việc ghi hình thì đến phần hậu kỳ. Đây là lúc mà các cảnh phim được biên tập, chỉnh sửa, thêm vào các hiệu ứng kỹ xảo, hoặc thậm chí là phải quay lại nếu chưa vừa ý. Khâu cuối cùng là lên kế hoạch phát hành, thực hiện chiến lược truyền thông để đưa tác phẩm ra mắt tại <a href='https://www.galaxycine.vn/'>rạp chiếu phim</a>.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Hầu hết trong từng giai đoạn kể trên, luôn có khả năng phát sinh vấn đề mà không ai lường trước được. Chính điều này dẫn đến sự chậm trễ trong tiến độ hoàn thiện phim. Việc trì hoãn diễn ra trong vài tháng hay có khi lên đến nhiều năm. Không thiếu những cái tên từng trải qua nhiều gian nan trước khi đến với công chúng. Sắp tới là <a href='https://www.galaxycine.vn/dat-ve/avatar-the-way-of-water'><b><i>Avatar: The Way Of Water</i></b></a>, siêu phẩm của James Cameron phải mất 13 năm ra rạp kể từ phần đầu tiên. </span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Hãy cùng điểm danh những tựa phim từng chịu số phận “ngâm kho” trong lịch sử!</span></span></span></p> <p style='margin:0in 0in 10pt'><a href='https://www.galaxycine.vn/dat-ve/avatar-the-way-of-water'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b>Avatar: The Way Of Water</b></span></span></span></a></p> <p style='margin: 0in 0in 10pt; text-align: center;'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b><img alt='' height='349' src='https://www.galaxycine.vn/media/2022/11/30/1135-1_1669779575874.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Sau thời gian dài chờ đợi, người hâm mộ sẽ tái ngộ tộc người Navi và hành tinh Pandora vào tháng 12.2022.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Bối cảnh của <a href='https://www.galaxycine.vn/dat-ve/avatar-the-way-of-water'><b><i>Avatar: The Way Of Water</i></b></a> diễn ra vào 10 năm sau sự kiện của phần một. Lần này người Trái Đất vẫn là mối đe dọa lớn nhất của Pandora, liệu ai sẽ hy sinh?</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>James Cameron là một đạo diễn đại tài. Sự tỉ mỉ và tâm huyết mà ông thể hiện trong suốt sự nghiệp là thứ không thể chối cãi. Cơn bão doanh thu phòng vé khi <a href='https://www.galaxycine.vn/dat-ve/avatar-the-way-of-water'><b><i>Avatar: The Way Of Water</i></b> </a>sắp càn quét thế giới. Để xem lần này có kỷ lục nào được thiết lập hay không.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b>Eyes Wide Shut</b></span></span></span></p> <p style='margin: 0in 0in 10pt; text-align: center;'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b><img alt='' height='349' src='https://www.galaxycine.vn/media/2022/11/30/1135-2_1669779591202.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Được tôn vinh là một trong những đạo diễn vĩ đại nhất, Stanley Kubrick là nguồn cảm hứng cho biết bao nhà làm phim lừng danh.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Từ những năm 1950 – 1960, Kubrick đã cho ra đời nhiều kiệt tác. Đấy là những <i>Paths of Glory, Dr. Strangelove</i>…, Đến thập niên 70 và 80, tín đồ điện ảnh tiếp tục trầm trồ khi có dịp thưởng thức <i>A Clockwork Orange</i> đầy tranh cãi, <i>The Shining</i> mang tính biểu tượng của dòng phim kinh dị, <i>Full Metal Jacket</i> thì mang làn gió mới của thể loại chiến tranh.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Đến những năm cuối đời ở thập kỷ 90, Stanley Kubrick vẫn làm phim mới. <i>Eyes Wide Shut</i> với sự tham gia của bộ đôi Tom Cruise – Nicole Kidman, đã lập kỷ lục Guinness khi là phim có quá trình quay lâu nhất, lên đến hơn một năm rưỡi.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Ý định thực hiện <i>Eyes Wide Shut</i> đã được Kubrick nghĩ đến từ nhiều năm trước. Tuy nhiên tận cuối thế kỷ 20 ông mới có cơ&nbsp; hội của mình. Sau khi hoàn thành bản dựng cuối cùng, vài ngày sau Kubrick qua đời. <i>Eyes Wide Shut</i> dù có kỳ quặc hay khó hiểu đến đâu sẽ mãi là ẩn số không có lời giải đáp.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b>Black Widow</b></span></span></span></p> <p style='margin: 0in 0in 10pt; text-align: center;'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b><img alt='' height='349' src='https://www.galaxycine.vn/media/2022/11/30/1135-3_1669779607326.jpeg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Vũ Trụ Điện Ảnh Marvel <i>(MCU)</i> là tập hợp các phần phim vốn đã được lên kế hoạch bài bản suốt nhiều năm.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Những nhà sáng tạo của <i>MCU </i>luôn đảm bảo rằng lịch trình khởi chiếu từng cuốn phim luôn đúng tiến độ nhất. Tất nhiên việc lùi lịch là điều không ai muốn, thế nhưng Covid-19 thì chẳng ai né được.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Đáng lẽ người xem đã tiếp cận với <i>Black Widow</i> từ năm 2020, nhưng mọi thứ đi lệch hướng và thế là nàng Natasha phải đợi đến tận hè 2021 mới chào sân được.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Trên thực tế, Kevin Fiege đã mong muốn Góa Phụ Đen được trình chiếu vào thời điểm trước đấy 10 năm. Làm vậy sẽ giúp cho timeline MCU sẽ hoàn thiện liền mạch hơn. Chuyện phim của <i>Black Widow</i> diễn ra trước <i>Avengers: Endgame</i>, thế nhưng việc công chiếu sau nên đã có tác động không nhỏ đến sự&nbsp; hào hứng của khán giả. Tất nhiên <i>Black Widow</i> không tệ, nhưng nếu đấy là mùa hè 2010 thì có lẽ phim sẽ được đón nhận nhiều hơn.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b>Mad Max: Fury Road</b></span></span></span></p> <p style='margin: 0in 0in 10pt; text-align: center;'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b><img alt='' height='349' src='https://www.galaxycine.vn/media/2022/11/30/1135-4_1669779630188.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Được ra mắt từ năm 1979 đến 1985, ba phần phim Mad Max của đạo diễn George Miller được xem là tượng đài của kiểu phim hành động hậu tận thế.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>30 năm sau, phần thứ 4 của loạt phim xuất hiện và được đánh giá là hay nhất – <i>Mad Max: Fury Road</i>.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Nếu nhìn vào con số năm tháng thì có vẻ lâu, nhưng từng ấy thời gian dành cho Fury Road là xứng đáng vô cùng. Bởi lẽ công nghệ đã phát triển đủ để giúp ông, biến những gì bất khả thi vào năm 1980 trở thành hiện thực. Phần tiền truyện mang tên <i>Furiosa</i> cũng đang trong quá trình “xử lý” và nhiều khả năng sẽ có lịch chiếu vào năm 2024. Dù sao đi nữa, 9 năm kể từ 2015 cũng chẳng thấm vào đâu so với 30 năm.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b>Once Upon A Time In America</b></span></span></span></p> <p style='margin: 0in 0in 10pt; text-align: center;'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b><img alt='' height='349' src='https://www.galaxycine.vn/media/2022/11/30/1135-5_1669779645776.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Ông vua của thể loại phim cao bồi Viễn Tây đã mất ăn mất ngủ khá nhiều bởi <i>Once Upon A Time In America</i>.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Được xem là thiên sử thi hoành tráng về giới tội phạm ở nước Mỹ thuở ấy, thời lượng kéo dài gần bốn giờ đồng hồ không phải là trở ngại duy nhất cho việc thưởng thức.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Tốn gần 10 năm để chuẩn bị cho mọi thứ. Từ kịch bản, diễn viên, bối cảnh, tiếp đến là quá trình quay phim lẫn hậu kỳ cũng lâu không kém. Thật đau lòng khi <i>Once Upon A Time In America</i> đã bị đối xử cực kỳ tồi tệ vào lúc ấy. Phim đã bị các hệ thống phát hành can thiệp quá mức cho phép, cắt ngắn lại so với lúc đầu, hậu quả là nhận về hàng loạt lời chê bai. Mãi đến khi phiên bản đầy đủ lưu hành phổ biến, <i>Once Upon A Time In America</i> mới được nhìn nhận là tuyệt tác kinh điển.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b>Avatar</b></span></span></span></p> <p style='margin: 0in 0in 10pt; text-align: center;'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'><b><img alt='' height='349' src='https://www.galaxycine.vn/media/2022/11/30/1135-6_1669779650870.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Nhiều tài liệu cho rằng James Cameron mượn “giấc mơ” từ mẹ của mình, để làm tiền đề khởi nguồn cho câu chuyện của <em>Avatar</em>.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Ông viết những trang kịch bản đầu tiên vào năm 1994. Khó khăn giờ đây không chỉ riêng về tài chính, mà còn ở khâu kỹ xảo. James Cameron đã kiên nhẫn đợi chờ, cho đến khi ông nắm trong tay các công cụ đủ để tái hiện Pandora một cách chân thực nhất.</span></span></span></p> <p style='margin:0in 0in 10pt'><span style='font-size:14px;'><span style='font-family:Arial,Helvetica,sans-serif;'><span style='line-height:115%'>Vẫn có đâu đó lời bình tiêu cực về <em>Avatar</em>, nhưng quả ngọt mà phim gặt được đã quá đủ minh chứng cho tài năng của vị đạo diễn đáng kính.</span></span></span></p></div>"
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://cdn.galaxycine.vn/media/2022/11/17/boc-trung-phuc-sinh-black-panther-wakanda-forever-9_1668663696350.jpg",
+      "title": "Bóc Trứng Phục Sinh Black Panther: Wakanda Forever",
+      "description": "Cùng tìm hiểu những chi tiết ẩn thú vị của Black Panther: Wakanda Forever!",
+      "createdAt": 1693842478644,
+      "content": "<div class='content-text'><p></p><p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><a href='https://www.galaxycine.vn/dat-ve/black-panther-wakanda-forever'><strong>Black Panther: Wakanda Forever</strong></a> đang thống trị các <a href='https://www.galaxycine.vn/'><em>rạp chiếu phim</em></a> toàn thế giới, với&nbsp;doanh thu hơn 355 triệu $ toàn thế giới. Các Stars đã xem phim 1 lần, 2 lần hay 3-4-5 lần? Hãy cùng tìm hiểu những quả trứng Phục Sinh thú vị của <a href='https://www.galaxycine.vn/phim-dang-chieu'><em>phim mới</em></a> này và check xem bạn đã đoán đúng bao nhiêu?</span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>Bản tin thời sự</b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Biên tập viên nổi tiếng Anderson Cooper xuất hiện trên tivi cùng với nhiều tin tức quan trọng. Trong số đó có việc Scott Lang xuất bản hồi kí. Gần như chắc chắn, chi tiết này sẽ xuất hiện ở <em>Ant Man And The Wasp: Quantumania</em>.</span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><img alt='' height='338' src='https://www.galaxycine.vn/media/2022/11/17/boc-trung-phuc-sinh-black-panther-wakanda-forever-1_1668663727359.jpeg' width='600' class='loading' data-was-processed='true'></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Ngoài ra, bản tin còn đề cập tới Hiệp ước hòa bình tại New Asgard. Chi tiết này từng xuất hiện ở <a href='https://www.galaxycine.vn/phim/avengers-endgame'><em>Avengers: Endgame</em></a> và <a href='https://www.galaxycine.vn/phim/thor-love-and-thunder'><em>Thor: Love And Thunder</em></a>.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Những thước phim này tuy ngắn ngủi nhưng mang lại nhiều chi tiết ẩn quan trọng cũng như giúp tăng tính thực tế cho phim siêu anh hùng. </span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>Rise Talokan</b></span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><b><img alt='' height='600' src='https://www.galaxycine.vn/media/2022/11/17/boc-trung-phuc-sinh-black-panther-wakanda-forever-1_1668663751307.jpg' width='600' class='loading' data-was-processed='true'></b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Nếu người Wakanda có câu khẩu hiệu nổi tiếng toàn thế giới “Wakanda Forever” thì dân miền biển Talokan cũng đâu kém cạnh với màn đồng thanh “Rise Talokan.” Thậm chí, để so kè&nbsp;động tác tay, Namor và “đàn em” cũng sở hữu cách chào tương tự đòn Kamehameha ở 7 Viên Ngọc Rồng.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>Khẩu hiệu Yibambe</b></span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><b><img alt='' height='337' src='https://www.galaxycine.vn/media/2022/11/17/boc-trung-phuc-sinh-black-panther-wakanda-forever-2_1668663769092.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Khi cùng&nbsp;quân đội Wakanda tiến ra Đại Tây Dương đánh phủ đầu dân Talokan, Shuri hét&nbsp;to: “Yibambe!” - câu nói mà vị hoàng đế đoản mệnh T’Challa đã hô vang ở <em><a href='https://www.galaxycine.vn/phim/avengers-infinity-war'>Avengers: Infinity War</a> </em>và<em> <a href='https://www.galaxycine.vn/phim/avengers-endgame'>Avengers: Endgame</a></em>. Đây là khoảnh khắc gợi nhớ T’Challa và Chadwick Boseman cũng như chứng tỏ sự phát triển của nhân vật Shuri – từ nàng công chúa chỉ biết nghiên cứu khoa học, cô đã trở thành người đủ sức lãnh đạo quốc gia và đeo lên chiếc mặt nạ Black Panther.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>Dị nhân</b></span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><b><img alt='' height='251' src='https://www.galaxycine.vn/media/2022/11/17/boc-trung-phuc-sinh-black-panther-wakanda-forever-3_1668663793725.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Vào đoạn hồi tưởng, Namor đã tự nhận mình là mutant – Dị Nhân. Chi tiết này đủ khiến hàng triệu người hâm mộ phát cuồng. Trong tương lai không xa, X-Men sẽ trở lại.</span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><img alt='' height='360' src='https://www.galaxycine.vn/media/2022/11/17/boc-trung-phuc-sinh-black-panther-wakanda-forever-4_1668663811536.jpg' width='600'></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Trước ngày&nbsp;<a href='https://www.galaxycine.vn/dat-ve/black-panther-wakanda-forever'><strong>Black Panther: Wakanda Forever</strong></a> công chiếu, “Deadpool” Ryan Reynolds&nbsp;tiết lộ việc “Wolverine” Hugh Jackman tái xuất giang hồ. Cùng với chuyện Miss Marvel – Kamala Khan cũng là dị nhân, tất cả đều báo hiệu ngày X-Men tham gia vũ trụ điện ảnh Marve đã đến rất rất gần. </span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>M’Baku ăn chay</b></span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><b><img alt='' height='315' src='https://www.galaxycine.vn/media/2022/11/17/boc-trung-phuc-sinh-black-panther-wakanda-forever-5_1668663841759.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Khi M’Baku và các chiến binh bộ lạc Jabari xuất hiện ở buổi họp do nữ hoàng Ramonda chủ trì, anh vừa đi vừa ăn một củ cà rốt! Bề ngoài bặm trợn nhưng hành động ngược 180 độ đủ làm&nbsp;khán giả bật cười.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Thật ra, ngay từ <a href='https://www.galaxycine.vn/phim/black-panther'><em>Black Panther</em></a>, M’Baku đã tiết lộ rằng mình và bộ lạc đều ăn chay. Hẳn củ cải đỏ kia là món tráng miệng của người đàn ông “sống trong hang nhưng rất mê đọc sách”!</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>Shuri cố gắng vô vọng&nbsp;</b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Khoảnh khắc&nbsp;Nakia xông vào 'sào huyệt' Talokan và giải thoát cho Shuri, nàng chiến binh đã hạ sát một người. Công chúa tìm cách&nbsp;cứu cô ta bằng chuỗi hạt Kimoyo. Điều này khiến người xem hồi tưởng đến cách cô cứu đặc vụ Everett Ross. </span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Tuy nhiên, vết thương quá nặng nên Shuri đành bó tay. Cái chết ấy đã đẩy&nbsp;mối quan hệ mới chớm nở giữa Shuri và Namor cũng như xứ Wakanda và vùng Talokan vỡ tan tành. Chẳng rõ nếu Shuri cứu người thành công, Wakanda và Talokan có thể đàm phán hòa bình không nhưng chí ít cũng chưa căng thẳng đến mức phát sinh quá nhiều bi kịch về sau.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>Namor mạnh ngang ngửa Hulk</b></span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><b><img alt='' height='337' src='https://www.galaxycine.vn/media/2022/11/17/boc-trung-phuc-sinh-black-panther-wakanda-forever-6_1668663872849.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Khi Shuri và người Wakanda lên kế hoạch phản công Talokan, M’Baku đã khuyên ngăn bằng cách đưa ra so sánh rằng Namor mạnh ngang ngửa Hulk. Minh chứng rõ ràng cho việc này là cảnh Namor ném chiếc máy bay phản lực của Mỹ như món đồ chơi. M’Baku cũng từng khinh địch để rồi bị gã K’uk’ulkan đấm vỡ giáp.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Trong truyện tranh, Namor từng đập Hulk thê thảm đến nỗi Người Khổng Lồ Xanh biến lại thành Bruce Banner.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>Riri – Người Sắt mới</b></span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: center;'><span style='font-size:14px;'><span><span style='line-height:107%'><b><img alt='' height='338' src='https://www.galaxycine.vn/media/2022/11/17/boc-trung-phuc-sinh-black-panther-wakanda-forever-7_1668663878657.jpg' width='600'></b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Thời điểm&nbsp;Riri, Shuri và Okoye bị FBI bao vây; cô bé mặc bộ giáp sắt rồi vút lên bầu trời. Phát hiện một chiếc máy bay không người lái nhắm vào Shuri, Riri đã nhanh chóng tiêu diệt, bất chấp việc bay quá cao đến vùng không khí loãng.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Chẳng còn nghi ngờ gì nữa, đây mới là người kế vị Tony Stark – Iron Man chứ nào phải Peter Parker hay Morgan Stark.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>CB112976</b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Biển số chiếc xe chở tù nhân a.k.a cựu đặc vụ Everett Ross vào cuối phim là CB112976 - Trứng phục sinh tri ân Chadwick Boseman. Anh sinh ngày 29.11.1976.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><strong><span style='line-height:107%'>Valentina Allegra de Fontaine</span></strong></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Vợ cũ của Ross, sếp mới CIA cũng là người chiêu mộ US Agent - Jonathan F. 'John' Walker và Yelena. Dự án Thunderbolt công bố đội hình diễn viên tại sự kiện D23 vừa qua.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>MIT</b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>MIT ắt hẳn là ngôi trường hot nhất MCU. Riri Williams học MIT, MJ và Ned học MIT, Tony Stark cũng từng học MIT.</span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'><b>Thiên thần bóng đêm</b></span></span></span></p> <p style='margin:0in 0in 8pt'><span style='font-size:14px;'><span><span style='line-height:107%'>Bộ giáp chiến binh mà Okoye chê lên chê xuống được lấy cảm hứng tên gọi từ truyện tranh. Đấy là nhóm chiến binh xuất sắc nhất đội Dora Milaje. Họ thường mặc trang phục xanh.</span></span></span></p> <p style='margin: 0in 0in 8pt; text-align: right;'><strong><span style='font-size:14px;'><span><span style='line-height:107%'>Lược dịch theo Digitaltrend</span></span></span></strong></p> </div>"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "A1",
+      "seatsMatrix": [
+        [
+          "J-0",
+          "J-1",
+          "J-2",
+          "J-3",
+          "J-4",
+          "J-5",
+          "J-6",
+          "J-7",
+          "J-8",
+          "J-9",
+          "J-10",
+          "J-11",
+          "J-12",
+          "J-13",
+          "J-14"
+        ],
+        [
+          "I-1",
+          "I-2",
+          "I-0",
+          "I-0",
+          "I-0",
+          "I-3",
+          "I-4",
+          "I-5",
+          "I-6",
+          "I-7",
+          "I-8",
+          "I-9",
+          "I-10",
+          "I-11",
+          "I-12"
+        ],
+        [
+          "H-1",
+          "H-2",
+          "H-0",
+          "H-0",
+          "H-0",
+          "H-3",
+          "H-4",
+          "H-5",
+          "H-6",
+          "H-7",
+          "H-8",
+          "H-9",
+          "H-10",
+          "H-11",
+          "H-12"
+        ],
+        [
+          "G-1",
+          "G-2",
+          "G-0",
+          "G-0",
+          "G-0",
+          "G-3",
+          "G-4",
+          "G-5",
+          "G-6",
+          "G-7",
+          "G-8",
+          "G-9",
+          "G-10",
+          "G-0",
+          "G-0"
+        ],
+        [
+          "F-1",
+          "F-2",
+          "F-0",
+          "F-0",
+          "F-0",
+          "F-3",
+          "F-4",
+          "F-5",
+          "F-6",
+          "F-7",
+          "F-8",
+          "F-9",
+          "F-10",
+          "F-0",
+          "F-0"
+        ],
+        [
+          "E-1",
+          "E-2",
+          "E-0",
+          "E-0",
+          "E-0",
+          "E-3",
+          "E-4",
+          "E-5",
+          "E-6",
+          "E-7",
+          "E-8",
+          "E-9",
+          "E-10",
+          "E-0",
+          "E-0"
+        ],
+        [
+          "D-1",
+          "D-2",
+          "D-0",
+          "D-0",
+          "D-0",
+          "D-3",
+          "D-4",
+          "D-5",
+          "D-6",
+          "D-7",
+          "D-8",
+          "D-9",
+          "D-10",
+          "D-0",
+          "D-0"
+        ],
+        [
+          "C-1",
+          "C-2",
+          "C-0",
+          "C-0",
+          "C-0",
+          "C-3",
+          "C-4",
+          "C-5",
+          "C-6",
+          "C-7",
+          "C-8",
+          "C-9",
+          "C-10",
+          "C-0",
+          "C-0"
+        ],
+        [
+          "B-1",
+          "B-2",
+          "B-0",
+          "B-0",
+          "B-0",
+          "B-3",
+          "B-4",
+          "B-5",
+          "B-6",
+          "B-7",
+          "B-8",
+          "B-9",
+          "B-10",
+          "B-0",
+          "B-0"
+        ],
+        [
+          "A-1",
+          "A-2",
+          "A-0",
+          "A-0",
+          "A-0",
+          "A-3",
+          "A-4",
+          "A-5",
+          "A-6",
+          "A-7",
+          "A-8",
+          "A-9",
+          "A-10",
+          "A-0",
+          "A-0"
+        ]
+      ]
+    },
+    {
+      "id": "A2",
+      "seatsMatrix": [
+        [
+          "K-1",
+          "K-2",
+          "K-0",
+          "K-3",
+          "K-4",
+          "K-5",
+          "K-6",
+          "K-7",
+          "K-8",
+          "K-9",
+          "K-10",
+          "K-11",
+          "K-12",
+          "K-13",
+          "K-14",
+          "K-15",
+          "K-16",
+          "K-0",
+          "K-0"
+        ],
+        [
+          "J-1",
+          "J-2",
+          "J-0",
+          "J-0",
+          "J-3",
+          "J-4",
+          "J-5",
+          "J-6",
+          "J-7",
+          "J-8",
+          "J-9",
+          "J-10",
+          "J-11",
+          "J-12",
+          "J-13",
+          "J-14",
+          "J-0",
+          "J-0",
+          "J-0"
+        ],
+        [
+          "I-1",
+          "I-2",
+          "I-0",
+          "I-0",
+          "I-3",
+          "I-4",
+          "I-5",
+          "I-6",
+          "I-7",
+          "I-8",
+          "I-9",
+          "I-10",
+          "I-11",
+          "I-12",
+          "I-13",
+          "I-14",
+          "I-0",
+          "I-0",
+          "I-0"
+        ],
+        [
+          "H-1",
+          "H-2",
+          "H-0",
+          "H-0",
+          "H-3",
+          "H-4",
+          "H-5",
+          "H-6",
+          "H-7",
+          "H-8",
+          "H-9",
+          "H-10",
+          "H-11",
+          "H-12",
+          "H-13",
+          "H-14",
+          "H-0",
+          "H-0",
+          "H-0"
+        ],
+        [
+          "G-0",
+          "G-0",
+          "G-0",
+          "G-0",
+          "G-1",
+          "G-2",
+          "G-0",
+          "G-0",
+          "G-0",
+          "G-3",
+          "G-4",
+          "G-5",
+          "G-6",
+          "G-7",
+          "G-8",
+          "G-9",
+          "G-10",
+          "G-11",
+          "G-12"
+        ],
+        [
+          "F-0",
+          "F-0",
+          "F-0",
+          "F-0",
+          "F-1",
+          "F-2",
+          "F-0",
+          "F-0",
+          "F-0",
+          "F-3",
+          "F-4",
+          "F-5",
+          "F-6",
+          "F-7",
+          "F-8",
+          "F-9",
+          "F-10",
+          "F-11",
+          "F-12"
+        ],
+        [
+          "E-0",
+          "E-0",
+          "E-0",
+          "E-0",
+          "E-1",
+          "E-2",
+          "E-0",
+          "E-0",
+          "E-0",
+          "E-3",
+          "E-4",
+          "E-5",
+          "E-6",
+          "E-7",
+          "E-8",
+          "E-9",
+          "E-10",
+          "E-11",
+          "E-12"
+        ],
+        [
+          "D-0",
+          "D-0",
+          "D-0",
+          "D-0",
+          "D-1",
+          "D-2",
+          "D-0",
+          "D-0",
+          "D-0",
+          "D-3",
+          "D-4",
+          "D-5",
+          "D-6",
+          "D-7",
+          "D-8",
+          "D-9",
+          "D-10",
+          "D-11",
+          "D-12"
+        ],
+        [
+          "C-0",
+          "C-0",
+          "C-0",
+          "C-0",
+          "C-1",
+          "C-2",
+          "C-0",
+          "C-0",
+          "C-0",
+          "C-3",
+          "C-4",
+          "C-5",
+          "C-6",
+          "C-7",
+          "C-8",
+          "C-9",
+          "C-10",
+          "C-11",
+          "C-12"
+        ],
+        [
+          "B-0",
+          "B-0",
+          "B-0",
+          "B-0",
+          "B-1",
+          "B-2",
+          "B-0",
+          "B-0",
+          "B-0",
+          "B-3",
+          "B-4",
+          "B-5",
+          "B-6",
+          "B-7",
+          "B-8",
+          "B-9",
+          "B-10",
+          "B-11",
+          "B-12"
+        ],
+        [
+          "A-0",
+          "A-0",
+          "A-0",
+          "A-0",
+          "A-1",
+          "A-2",
+          "A-0",
+          "A-0",
+          "A-0",
+          "A-3",
+          "A-4",
+          "A-5",
+          "A-6",
+          "A-7",
+          "A-8",
+          "A-9",
+          "A-10",
+          "A-11",
+          "A-12"
+        ]
+      ]
+    },
+    {
+      "id": "A3",
+      "seatsMatrix": [
+        [
+          "H-14",
+          "H-13",
+          "H-12",
+          "H-11",
+          "H-10",
+          "H-9",
+          "H-8",
+          "H-7",
+          "H-6",
+          "H-5",
+          "H-4",
+          "H-3",
+          "H-2",
+          "H-1"
+        ],
+        [
+          "G-14",
+          "G-13",
+          "G-12",
+          "G-11",
+          "G-10",
+          "G-9",
+          "G-8",
+          "G-7",
+          "G-6",
+          "G-5",
+          "G-4",
+          "G-3",
+          "G-2",
+          "G-1"
+        ],
+        [
+          "F-14",
+          "F-13",
+          "F-12",
+          "F-11",
+          "F-10",
+          "F-9",
+          "F-8",
+          "F-7",
+          "F-6",
+          "F-5",
+          "F-4",
+          "F-3",
+          "F-2",
+          "F-1"
+        ],
+        [
+          "E-14",
+          "E-13",
+          "E-12",
+          "E-11",
+          "E-10",
+          "E-9",
+          "E-8",
+          "E-7",
+          "E-6",
+          "E-5",
+          "E-4",
+          "E-3",
+          "E-2",
+          "E-1"
+        ],
+        [
+          "D-14",
+          "D-13",
+          "D-12",
+          "D-11",
+          "D-10",
+          "D-9",
+          "D-8",
+          "D-7",
+          "D-6",
+          "D-5",
+          "D-4",
+          "D-3",
+          "D-2",
+          "D-1"
+        ],
+        [
+          "C-14",
+          "C-13",
+          "C-12",
+          "C-11",
+          "C-10",
+          "C-9",
+          "C-8",
+          "C-7",
+          "C-6",
+          "C-5",
+          "C-4",
+          "C-3",
+          "C-2",
+          "C-1"
+        ],
+        [
+          "B-14",
+          "B-13",
+          "B-12",
+          "B-11",
+          "B-10",
+          "B-9",
+          "B-8",
+          "B-7",
+          "B-6",
+          "B-5",
+          "B-4",
+          "B-3",
+          "B-2",
+          "B-1"
+        ],
+        [
+          "A-14",
+          "A-13",
+          "A-12",
+          "A-11",
+          "A-10",
+          "A-9",
+          "A-8",
+          "A-7",
+          "A-6",
+          "A-5",
+          "A-4",
+          "A-3",
+          "A-2",
+          "A-1"
+        ]
+      ]
+    }
+  ],
+  "tickets": [
+    {
+      "movieId": 3,
+      "showTime": {
+        "time": {
+          "time": "13:00",
+          "room": "A2"
+        },
+        "date": "2023-09-14"
+      },
+      "userId": 2,
+      "seats": [
+        "F-8"
+      ],
+      "total": 85000,
+      "userInfo": {
+        "fullname": "Đào Thu Hằng",
+        "email": "dao.thu.hang@sun-asterisk.com",
+        "phonenumber": "0349653909"
+      },
+      "paymentMethod": "2",
+      "createdAt": 1694535419718,
+      "tid": "3604142308116958",
+      "id": 1
+    },
+    {
+      "movieId": 8,
+      "showTime": {
+        "time": {
+          "time": "16:00",
+          "room": "A3"
+        },
+        "date": "2023-09-14"
+      },
+      "userId": 2,
+      "seats": [
+        "F-6",
+        "D-6"
+      ],
+      "total": 165000,
+      "userInfo": {
+        "fullname": "Đào Thu Hằng SUN",
+        "email": "dao.thu.hang@sun-asterisk.com",
+        "phonenumber": "0349653909"
+      },
+      "paymentMethod": "1",
+      "tid": "7101365450902519",
+      "createdAt": 1694682017443,
+      "id": 2
+    },
+    {
+      "movieId": 2,
+      "showTime": {
+        "time": {
+          "time": "13:00",
+          "room": "A2"
+        },
+        "date": "2023-09-15"
+      },
+      "userId": 2,
+      "seats": [
+        "F-5",
+        "E-5"
+      ],
+      "total": 250000,
+      "userInfo": {
+        "fullname": "Đào Thu Hằng SUN",
+        "email": "dao.thu.hang@sun-asterisk.com",
+        "phonenumber": "0349653909"
+      },
+      "paymentMethod": "1",
+      "tid": "2848398257036160",
+      "createdAt": 1694682658728,
+      "id": 3
+    },
+    {
+      "movieId": 3,
+      "showTime": {
+        "time": {
+          "time": "08:00",
+          "room": "A2"
+        },
+        "date": "2023-09-18"
+      },
+      "userId": 8,
+      "seats": [
+        "G-9",
+        "D-9"
+      ],
+      "total": 165000,
+      "userInfo": {
+        "fullname": "Dao Thu Hang DTH",
+        "email": "dth@gmail.com",
+        "phonenumber": "0349653909"
+      },
+      "paymentMethod": "1",
+      "tid": "7604033349074848",
+      "createdAt": 1694754595317,
+      "id": 4
+    },
+    {
+      "movieId": 3,
+      "showTime": {
+        "time": {
+          "time": "08:00",
+          "room": "A2"
+        },
+        "date": "2023-09-18"
+      },
+      "userId": 2,
+      "seats": [
+        "G-6",
+        "F-6",
+        "E-7"
+      ],
+      "total": 255000,
+      "userInfo": {
+        "fullname": "Đào Thu Hằng SUN",
+        "email": "dao.thu.hang@sun-asterisk.com",
+        "phonenumber": "0349653909"
+      },
+      "paymentMethod": "1",
+      "tid": "1941956938797913",
+      "createdAt": 1694788552977,
+      "id": 5
+    },
+    {
+      "movieId": 2,
+      "showTime": {
+        "time": {
+          "time": "10:00",
+          "room": "A3"
+        },
+        "date": "2023-09-16"
+      },
+      "userId": 2,
+      "seats": [
+        "D-5",
+        "C-5"
+      ],
+      "total": 240000,
+      "userInfo": {
+        "fullname": "Đào Thu Hằng SUN",
+        "email": "dao.thu.hang@sun-asterisk.com",
+        "phonenumber": "0349653909"
+      },
+      "paymentMethod": "2",
+      "tid": "0967046398241880",
+      "createdAt": 1694800833714,
+      "id": 6
+    },
+    {
+      "movieId": 2,
+      "showTime": {
+        "time": {
+          "time": "08:05",
+          "room": "A1"
+        },
+        "date": "2023-09-17"
+      },
+      "userId": 8,
+      "seats": [
+        "F-9",
+        "E-9"
+      ],
+      "total": 250000,
+      "userInfo": {
+        "fullname": "Dao Thu Hang DTH",
+        "email": "dth@gmail.com",
+        "phonenumber": "0349653909"
+      },
+      "paymentMethod": "1",
+      "tid": "4379909239674340",
+      "createdAt": 1694839181822,
+      "id": 7
+    }
+  ],
+  "feedbacks": [
+    {
+      "fullname": "Dao Thu Hang",
+      "email": "daothuhang219002@gmail.com",
+      "phonenumber": "0349653909",
+      "content": "Abc",
+      "createdAt": 1694624442133,
+      "id": 1
+    }
+  ]
+}
